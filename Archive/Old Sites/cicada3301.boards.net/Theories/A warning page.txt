@@ -1,0 +1,83 @@
+#Premise
+
+"Its words are the map, their <meaning> is the road, and their numbers are the direction."
+The meaning may refer to the translated part of the book since we can't understand a ciphered text. So, this is an investigation involving LP1 (the very first set of LP, already translated).
+
+IMAGE: https://lh5.googleusercontent.com/IUiX7K67giiIITYyCrvkz5-4Jl7kDdwlPUqoAbRlHohb0FdWqxJfOup84f9WgX2JNapTHGvZ0PfzD2MuOk3xL6p0Z7dCpOoeIgYkkArjtFyyKGqpcqevAzmj_WUE2TR6Gsk
+
+A WARNING UNCIPHERED // PLAINTEXT PAGE 
+We will try to show hidden relations between prime numbers in the very first page, which was ciphered with an atbash, before and after the encryption.
+
+The unciphered text of a warning page as we read it in English has got 10 sentences, 2 red and 8 black. [Note that a sentence is delimited between 4 dots or 13 dots]. Each sentence correspond to a sum, which is the sum of prime numbers (rune) of the line.
+
+The first line (red) is "a warning", which is 332. The last line (red) is "for all is sacred", which is 677 (prime).
+
+The unciphered sums of the 8 black sentences are as follow:
+757; 1009; 691; 353; 769; 911; 1051; 859.
+They are all prime numbers, most of them emirp [#to verify again] and their sum equals to 6400.
+
+6400 is not a casual number at all. We can see how it emerges in two ways.
+
+NUMBER 1
+6400 is the sum of 3301 and three times its speculiar 1033.
+6400 = 1033 * 3 + 3301.
+This is very simple; [#the possible reason of the *3 is because 3301 is 3 * 1033 with a remainder?]
+
+NUMBER 2
+6400 is a submultiple of the product of the totient function of the product 1032 * 3300 [totient function of 1033 and 3301].
+1032 * 3300 = 3405600;
+totient function of 3405600 = 806400;
+806400 / 6400 = 126.
+Note that 126 is the totient function 127, the 31st prime.
+
+So we just saw an hidden numerical relation / condition inside the unciphered page.
+
+UNCIPHERED TEXT MISCELLANEOUS
+1) The first red line is "a warning", which is 332. The totient function of 332 = 164, which is exactly the number of black runes inside "a warning" page.
+
+2) From NUMBER 2 previously:
+1032 * 3300 = 3405600;
+totient function of 3405600 = 806400;
+806400 / 6400 = 126.
+Note that 126 is the totient function 127, the 31st prime.
+1033 * 3301 = 3409933;
+3 + 4 + 0 + 9 + 3 + 3 = 31, bringing us back to the 127 and its totient, 126.
+this is a crazy miscellaneous or a coincidence or a beautiful piece of art?
+
+3) The first line (red) is "a warning", which is 332. The last line (red) is "for all is sacred", which is 677 (prime). 677 + 332 = 1009, which is a prime and equal to the 2nd black sentence sum.
+
+4) 353 is the 3rd black line sum. May it be a recall to the red dots in the page, whose format is 3|5|3 ?
+
+References: 
+https://docs.google.com/spreadsheets/d/1QsoYQ-NkJcwEuyOgMrD6DkHU2AUktwsfnQGnTURf1bU/edit#gid=137197189
+https://github.com/rtkd/idkfa/blob/master/log/crc/crc__rev-gematria--sentences.txt
+__________________________________________________________________________________
+
+A WARNING CIPHERED
+Now, let's analyze the encrypted text.
+
+The first line (red) is 288, the last line (red) is 758.
+The unciphered sums of the 8 black sentences are as follow:
+1498; 1535; 811; 918; 976; 1441; 1485; 1707.
+
+Their sum is 10371.
+
+COMPARISON WITH PLAINTEXT
+Cipihered SUM = 10371
+Unciphered sum = 6400 
+10371 / 6400 = 1,62046875 < < < < phi?
+
+None of the black sentences is adding to a prime except for 811.
+
+More over, if we consider only the first 7 sentences [1498; 1535; 811; 918; 976; 1441; 1485;] we see that their sum is equal to the sum of the totient function of 1033 and 3301 doubled.
+1498 + 1535 + 811 + 918 + 976 + 1441 + 1485 = 8664 = (1032 + 3300) * 2.
+
+________________________
+
+FINAL CONSIDERATIONS (OPEN TO SUGGESTIONS!!!)
+First of all we see how the plaintext has got numerical relations brining to numbers related to 1033, 3301, their product and totient function. The black lines total sums in ciphered and unciphered text can be retrieved with equations involving the same operators.
+This means that, very very probably, there are a lot of hint thats we are missing in plain text pages.
+
+The way numbers behave in this pages, also, make me think about the magic squares with fixed sums of 1033 and 3301.
+
+Could we arrange a string of primes to retrieve a matrix, a string of primes, maybe other messages or keys that could help us to get out of the lock?
