@@ -13,7 +13,7 @@ I re-orgenized them into a ready-to-print form and saved additional images, prog
 All the original images and files can be found in [assets/](/assets)
 
 # Media Coverage and old sites
-All old sites and media coverags can be found in [archive/](/archive)
+All old sites and media coverags can be found in [archive/](/Archive)
 
 
 # Credits and Links
