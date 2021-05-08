@@ -1,0 +1,14 @@
+[timing]
+interval = 600
+period = 7200
+
+[generation]
+modules = openssl
+
+[generate_openssl]
+bits = 1024
+instancename = Low Sec Prototype Env
+
+[futors]
+bindport = 49835
+bindhost = localhost
