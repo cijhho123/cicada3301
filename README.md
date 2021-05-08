@@ -1,4 +1,4 @@
-![Cicada3301](https://github.com/cijhho123/cicada3301/blob/main/cicada_(from_the_website).jpg?raw=true)
+![Cicada3301](https://github.com/cijhho123/cicada3301/blob/main/2012/additional%20media/images/cicada%20(from%20the%20website).jpg)
 
 
 # cicada3301
