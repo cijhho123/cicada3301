@@ -1,0 +1,67 @@
+[14:36] <PeakOfMountain> first it was without 57, hen after few minutes with 57
+[14:37] <gjvc> so 57 is a clue byte
+[14:37] <Ror> in hex 3301 is equal to 13057 in our decimal base
+[14:37] --> pLk (~sherwood@xdsl-188-118-148-134.dip.osnanet.de) has joined #33012014
+[14:38] <Lurker69> http://dragonstudios.tk/cicada33012014-fv7lyucmeozzd5j4.onion.txt  and this http://gjvc.com/3301/fv7lyucmeozzd5j4.onion-20140111-2218-GMT.txt
+[14:38] <BurkeAndHare> peakOf thats right
+[14:38] <Lurker69> have xactly same timestamp
+[14:38] <Lurker69> no minutes difference
+[14:39] <BurkeAndHare> what time do you have?
+[14:39] <Lurker69> both pastas i linked and i got form unreliable sources are  Date: Sat, 11 Jan 2014 22:19:20 GMT
+[14:39] <Lurker69> i wanst areon when onion was up, so all i can do is repost shit ppl give me
+[14:40] --> gigart_ (46b9d742@gateway/web/freenode/ip.70.185.215.66) has joined #33012014
+[14:40] <TaiiwoBot>  ^ http://tinyurl.com/lqjj7wo ^
+[14:40] <Lurker69> in 2012 peo ple planted fake leads like this
+[14:40] <gjvc> Lurker69
+[14:40] <gjvc> listen to me
+[14:40] <Lurker69> athat elad to fake onion pages and fake i2p pages
+[14:40] <-- gamazeps (~quassel@ultrabook.rezel.enst.fr) has quit (Ping timeout: 276 seconds)
+[14:40] <gjvc> that is my link up there
+[14:40] <gjvc> i got it with curl
+[14:40] <Lurker69> and there were groups of players chasing those pointless trolls for weeks
+[14:41] <Lurker69> gjvc: with 57
+[14:41] <gjvc> like this curl -i --socks4a 127.0.0.1:9050 http://fv7lyucmeozzd5j4.onion/ -o onion3-20140111-2254-GMT
+[14:41] <Lurker69> on your gjvc.com site?
+[14:41] <gjvc> yes
+[14:41] <Lurker69> ok so other one is fake
+[14:41] <Lurker69> 57 was never on onion
+[14:41] <Lurker69> or on your curl command
+[14:42] <BurkeAndHare> 57 was on the onion
+[14:42] <Lurker69> actually i could search logs for who posted http://dragonstudios.tk/cicada33012014-fv7lyucmeozzd5j4.onion.txt for frist time
+
+[14:42] <TaiiwoBot>  ^ http://tinyurl.com/lqjj7wo ^
+[14:42] <BurkeAndHare> please do search
+[14:43] <fictive> it was BurkeAndHare :D
+[14:43] <fictive> (no kidding)
+[14:43] <fictive> in this channel at least
+[14:43] <Ror> no one is fake i downloaded the html page at 2:24:38 PM (gmt -8) and some munites later "57" was added
+[14:43] <-- jva (~jva@95.211.138.225) has quit (Quit: leaving)
+[14:44] <PeakOfMountain> btw dragonstudios is too short?
+[14:44] <BurkeAndHare> Its my domain I posted it
+
+[14:45] <BurkeAndHare> peekOf thats my point its "different" not just the 57 other things are different too
+[14:45] <Lurker69> i am not blaming anyone for intentionally trolling
+[14:45] <Lurker69> but you have to be careful
+[14:45] <-- howt (0269f072@gateway/web/freenode/ip.2.105.240.114) has quit (Ping timeout: 272 seconds)
+[14:45] <-- epithite_ (c15b4fac@gateway/web/freenode/ip.193.91.79.172) has quit (Quit: Page closed)
+[14:45] <Lurker69> when you document stuff, printscreens are the most believable thigs, if there is no PGP
+[14:46] <Lurker69> we had bunsh of  resampled jpgs in wiki becasue people upload jpg on various sites not knowing that  jpgs might be resampled, then you have peope analyzing this resampled images....
+[14:47] <Lurker69> BurkeAndHare: but does you version produce working jpgs?
+[14:47] <Lurker69> also exactlywhat bytes are different
+[14:48] <Lurker69> and how can both pastas heve exact same html header
+[14:48] --> breakingbad (~bbad@176.147.112.78.rev.sfr.net) has joined #33012014
+[14:48] <PeakOfMountain> oh now i see, it was compression probably
+[14:48] --> wellwell (58a4debb@gateway/web/freenode/ip.88.164.222.187) has joined #33012014
+[14:48] <PeakOfMountain> but indeed there are few differences
+[14:48] --> oldgringo (6175b4e3@gateway/web/freenode/ip.97.117.180.227) has joined #33012014
+[14:48] <Lurker69> maybe someone  took header from  gjvcs link and posted his html from browser, and he didnt know that this will cause confusion later
+[14:49] <Lurker69> cant be cmpression
+[14:49] <Lurker69> html does not "compress"
+[14:49] <BurkeAndHare> Ill outguess it when I get some more coffee into me and get back
+[14:49] <Lurker69> lel
+[14:50] <Lurker69> no worries, we will figuere it out, its just akward what to write in wiki
+[14:50] <Lurker69> currently i put in that we dont know which version is correct
+[14:50] <PeakOfMountain> i wgeted and it was binary so i assumed compresion, but might be something else, saving from browser it had few different rows
+[14:50] <Lurker69> but as far i know jpg does not open normally if sigle byte is sorrupt
+[14:51] <Lurker69> haven t tested that much
+[14:51] <Lurker69> but if few bytes in second image are changed, it is possible that it should have good outgues and we are getting complete garbage out of it becasue of that
