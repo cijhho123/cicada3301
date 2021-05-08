@@ -1,0 +1,13 @@
+$ nc -x localhost:9050 xsxnaksict6egxkq.onion 80
+abc
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>501 Method Not Implemented</title>
+</head><body>
+<h1>Method Not Implemented</h1>
+<p>abc to /index.html not supported.<br />
+</p>
+<hr>
+<address>Apache/2.2.22 (Ubuntu) Server at li528-4.members.linode.com Port 81</address>
+</body></html>

@@ -1,0 +1,230 @@
+Line 1047: [2013-01-07 04:28:03] -->| Cosmo_ (4d63108b@gateway/web/freenode/ip.77.99.16.139) has joined #33012013
+	Line 1120: [2013-01-07 04:38:36] <Cosmo_> It's just a random thread.
+	Line 1123: [2013-01-07 04:38:49] <Lurker69> cosmo nothing is random here
+	Line 1125: [2013-01-07 04:39:16] <Cosmo_> No I mean I don't think the thread was created by someone who's been here long.
+	Line 1207: [2013-01-07 04:52:44] <Cosmo_> I'm taking that old mp3 into a university sound lab tomorrow. I'm not convinced everything that can be had from that is available yet.
+	Line 1211: [2013-01-07 04:53:43] <Cosmo_> Luckily I'm in a uniquely well placed position to have another look at that mp3.
+	Line 1212: [2013-01-07 04:53:44] <n00b_> @cosmo Do you think that maybe there could be an algorythm hidden in the music?
+	Line 1214: [2013-01-07 04:54:48] <Cosmo_> I was actually going to approach it from the more obvious end. The 'reverse' effects are what's intrigueing me. Usually those random note patterns reversed fit to enhance a sound, but in terms of this mp3 they slide off key in seemingly random places
+	Line 1222: [2013-01-07 04:55:20] <Cosmo_> I'm going to remove the main melody as bes i can, take another look at the reversed sections
+	Line 1239: [2013-01-07 04:58:36] <Cosmo_> They're all different posting ID's
+	Line 1242: [2013-01-07 04:59:25] <Cosmo_> But we also have to allow for the fact that some of them will be some little fuckstick joining in because he's hilarious.
+	Line 1245: [2013-01-07 04:59:51] <Cosmo_> It could be. Or if Cicada is a big group, GENUINELY posting from different IP's
+	Line 1253: [2013-01-07 05:00:58] <Cosmo_> In terms of working out what they mean, I'm afraid I won't be much help. I'm a sound engineer, that's all I can help with.
+	Line 1264: [2013-01-07 05:03:44] <Cosmo_> Well someone arrives talking about a /b/ thread, then a cicada thread starts. Someone's watching something.
+	Line 1300: [2013-01-07 05:07:20] <Cosmo_> It's ok, i began saving the lines posted. For the sake of ordering i've grouped them. One group is the strings that are replying to the string before
+	Line 1302: [2013-01-07 05:07:38] <Cosmo_> the other group is of strings posted in reply to OP or under 'heaven;
+	Line 1307: [2013-01-07 05:08:27] <Flumentia> Cosmo_: The second group is probably the fake ones. If the string has a reply to it, and the line is unbroken until OP, then it's probably real.
+	Line 1319: [2013-01-07 05:09:57] <Cosmo_> Flumentia: I assumed as much, I just saved them all for the sake of thoroughness
+	Line 1441: [2013-01-07 05:21:50] <Cosmo_> I don't have the tools to take apart the song right now. I'll deconstruct it tomorrow.
+	Line 1446: [2013-01-07 05:22:26] <Cosmo_> Is someone making a list of these tweets?
+	Line 1461: [2013-01-07 05:24:23] <soulseekah> Cosmo_, http://www.allmytweets.net/?screen_name=1231507051321
+	Line 1463: [2013-01-07 05:24:56] <Cosmo_> Good. Didn't know, sorry.
+	Line 1473: [2013-01-07 05:26:04] <Cosmo_> Yup. Just looking back over it. It doesn't look like the posts were botted
+	Line 1475: [2013-01-07 05:26:22] <Cosmo_> The post times are seemingly fairly random, 2-3 minute gaps
+	Line 1476: [2013-01-07 05:27:03] <anonalaala> Cosmo_: wat? You're not talking about the twitter right?
+	Line 1482: [2013-01-07 05:27:48] <Cosmo_> No the /b/ post
+	Line 1549: [2013-01-07 05:35:45] <Cosmo_> Just went through the strings posted to /b/. I removed any that didn't follow the timing pattern or linking to the previous string. I also removed the 'heaven' posted strings
+	Line 1550: [2013-01-07 05:36:07] <Cosmo_> I know they might be irrelevant, but I figured there's no loss recording them http://i.imgur.com/XOqUi.png
+	Line 1552: [2013-01-07 05:36:44] <lulzorz> Cosmo_: what if I told you
+	Line 1554: [2013-01-07 05:37:00] <lulzorz> Cosmo_: that it's completely unrelated and unencrypted base64
+	Line 1555: [2013-01-07 05:37:09] <lulzorz> Cosmo_: and that the OP reads
+	Line 1557: [2013-01-07 05:37:16] <lulzorz> Cosmo_: ITT we talk in base64 because we have nothing better to do
+	Line 1560: [2013-01-07 05:37:47] <Cosmo_> Then I'd feel stupid, look at the clock and remember it's 5 am and I hate having food poisoning?
+	Line 1572: [2013-01-07 05:38:42] <Cosmo_> However I may be able to redeem myself.
+	Line 1657: [2013-01-07 05:51:38] <Cosmo_> I'm still utterly convinced this mp3 is hiding more, I just can't get to the equipment I need to analyse it for another few hours.
+	Line 1660: [2013-01-07 05:51:51] <anonalaala> Cosmo: we look forward to that
+	Line 1679: [2013-01-07 05:53:29] <Cosmo_> Yeah I mean more than the poem
+	Line 1917: [2013-01-07 06:23:21] <Cosmo_> check the wiki
+	Line 1926: [2013-01-07 06:24:23] <Cosmo_> Now I'm assuming someone's done it, but anyone backmasked the mp3? Anything?
+	Line 1970: [2013-01-07 06:31:05] <Cosmo_> I've started on the music.
+	Line 1990: [2013-01-07 06:33:43] <Cosmo_> I'm mostly confused about the quality. These guys can do all this but they choose a shitty recording?
+	Line 2016: [2013-01-07 06:35:48] <Cosmo_> uuuh
+	Line 2017: [2013-01-07 06:35:50] <Cosmo_> what?
+	Line 2018: [2013-01-07 06:35:50] <Cosmo_> https://soundcloud.com/lforecordings/jewel-case-prisma-ep
+	Line 2019: [2013-01-07 06:36:03] <Cosmo_> Sorry to shoot you down, but i don't think so
+	Line 2026: [2013-01-07 06:37:02] <Cosmo_> I have no idea how it's palindromic at all
+	Line 2030: [2013-01-07 06:37:33] <Cosmo_> Except it's not is it?
+	Line 2035: [2013-01-07 06:37:50] <Cosmo_> ....I'm going to do that
+	Line 2037: [2013-01-07 06:38:09] <Lurker69> Cosmo_: that is what people said, i didnt test it yet
+	Line 2042: [2013-01-07 06:39:08] <Cosmo_> That's ok. I'm going to do it and find out. Although it's with pretty low tech software. I'll combine the normals and reversed clips, see how it goes.
+	Line 2048: [2013-01-07 06:41:16] <Cosmo_> Why normalise it? If there's something there you'll lose it
+	Line 2051: [2013-01-07 06:41:58] <Cosmo_> Normalising in audacity is setting a limit and reducing the peaks and bringing the dips to the same level
+	Line 2052: [2013-01-07 06:42:13] <Cosmo_> It makes the quiet bits loud and the loud bits quiet
+	Line 2056: [2013-01-07 06:42:42] <soulseekah> Cosmo_, that's compression
+	Line 2058: [2013-01-07 06:42:56] <Cosmo_> No compression is setting a peak.
+	Line 2063: [2013-01-07 06:43:25] <Cosmo_> While I don't like to talk about myself all that much, I'm at university studying music technology.
+	Line 2067: [2013-01-07 06:43:49] <Cosmo_> hang on
+	Line 2069: [2013-01-07 06:43:58] <Lurker69> Cosmo_: then you should know much more about it than me
+	Line 2073: [2013-01-07 06:44:39] <Cosmo_> No, higher waves equals louder sound
+	Line 2076: [2013-01-07 06:45:14] <Cosmo_> steeper just suggests a higher frequency
+	Line 2080: [2013-01-07 06:45:34] <Cosmo_> Ok. I would. But that's fairly impossible.
+	Line 2082: [2013-01-07 06:45:40] <Cosmo_> An amplitude is an amplitude
+	Line 2086: [2013-01-07 06:46:22] <Cosmo_> A square wave spends longer at a higher amplitude because without it's gradient, it's got a higher 'on' time
+	Line 2087: [2013-01-07 06:46:29] <Cosmo_> it's not louder, there's just more of it
+	Line 2090: [2013-01-07 06:46:50] <Lurker69> Cosmo_: i checked i am sorry maybe  it is not palindromic ....
+	Line 2092: [2013-01-07 06:47:27] <Cosmo_> No need to be sorry, we're all just looking for answers.
+	Line 2096: [2013-01-07 06:47:46] <Cosmo_> It's not palindromic, and I've just noticed that both stereo tracks have slight variations
+	Line 2097: [2013-01-07 06:47:55] <Cosmo_> That's unusual for an mp3 as it is.
+	Line 2100: [2013-01-07 06:48:34] <Cosmo_> Yep, I'm hearing nothing so unusual it jumps out at me, but I'm going to get another looks later
+	Line 2101: [2013-01-07 06:48:55] <Cosmo_> Not right now. In a couple of hours I'll be doing it on Logic and pro tools. Anyone else?
+	Line 2114: [2013-01-07 06:50:03] <Cosmo_> (as a side note I'm looking at a log f spectogram on audacity)
+	Line 2119: [2013-01-07 06:50:49] <Cosmo_> I'm getting everything (if anything) i can from the mp3
+	Line 2122: [2013-01-07 06:51:12] <Cosmo_> JackHinds: I'll take a look
+	Line 2126: [2013-01-07 06:51:54] <lulzorz> Cosmo_: square wave with peaks at 0.3 is louder than a sine wave with peaks at 0.8
+	Line 2139: [2013-01-07 06:53:26] <Cosmo_> Lulzorz: I'm not saying you're wrong (You may very well be right) But can I ask where you got this from?
+	Line 2145: [2013-01-07 06:53:58] <Cosmo_> Holy shit..... wait
+	Line 2147: [2013-01-07 06:54:10] <leakhmskill> unless cosmo has a breakthrough
+	Line 2152: [2013-01-07 06:54:36] <Cosmo_> Dammit, no I don't, sorry for the false hope
+	Line 2155: [2013-01-07 06:54:59] <lulzorz> Cosmo_: I just generated them myself and listened
+	Line 2166: [2013-01-07 06:56:10] <Cosmo_> Lulzorz: That's psychoacoustics for you. You're right, it sounds louder, all I'm saying is that what we hear and what is fact are two very different things. Something I learned far too much in my second year.
+	Line 2177: [2013-01-07 06:57:21] <lulzorz> Cosmo_: right, which is how compression works
+	Line 2180: [2013-01-07 06:57:57] <Cosmo_> lulzorz: Okay.
+	Line 2185: [2013-01-07 06:58:43] <Cosmo_> soulseekah: This is good stuff.
+	Line 2225: [2013-01-07 07:06:38] <Cosmo_> It may be nothing but the tracks bpm swings from an initial 135 to 145 to 125 for the final section. For anyone that's looking at the music
+	Line 2226: [2013-01-07 07:07:11] <Lurker69> Cosmo_: http://sebsauvage.net/paste/?3a4686838924aa71#Gq7BMdgz8Q8Vwf9JLVbQGfht3wCMm8gFqmd+uu51uyQ=
+	Line 2229: [2013-01-07 07:07:38] <indigo_> Cosmo_ : Maybe they altered the original track, thats why shazams don't work (or not in the database) someone was saying that speeding up the final section seemd interesting to him
+	Line 2232: [2013-01-07 07:09:04] <Cosmo_> I find those bpms to be very intentional. It's clear the guitarist is playing to a click track or metronome.
+	Line 2236: [2013-01-07 07:09:52] <Cosmo_> Yeah I just looked into the reversing. All I've noticed is there are two instruments being reversed. One is the guitar itself, sliding up and down one string
+	Line 2237: [2013-01-07 07:09:59] <Cosmo_> the other sounds like a dodouk
+	Line 2245: [2013-01-07 07:12:01] <Cosmo_> I've gone through the track reversed (no hidden spoken messages, sorry) but I'm sectioning it now
+	Line 2252: [2013-01-07 07:13:57] <Cosmo_> I don't understand, if all these poems are about growth and stuff, why are they so obsessed with going backwards? Since when are regression and evolution the same thing?
+	Line 2256: [2013-01-07 07:15:45] <Cosmo_> maxxtro9: I can't hear it. Do you mean it skips notes?
+	Line 2265: [2013-01-07 07:17:52] <Cosmo_> maxxtro9: I really can't hear it, sorry. Maybe someone else can?
+	Line 2268: [2013-01-07 07:18:33] <Cosmo_> JackHinds: I can't download that
+	Line 2275: [2013-01-07 07:19:50] <JackHinds> cosmo
+	Line 2302: [2013-01-07 07:22:29] <Cosmo_> I still can't hear that cut. Although anyone using audacity to check the music, split the stereo file. The two tracks don't quite match up
+	Line 2314: [2013-01-07 07:25:22] <JackHinds> cosmo
+	Line 2344: [2013-01-07 07:33:43] <Cosmo_> The sound at the start of the track the 'breath'..... Anyone else think it sounds like cicadas? A whole group of them?
+	Line 2526: [2013-01-07 08:03:23] <Cosmo_> I'll start importing the raw data see if I can't pull some sounds out of it.
+	Line 2529: [2013-01-07 08:03:52] <soulseekah> Cosmo_, http://codeseekah.com/cicada/out.raw raw data here (not latest, around 20 minutes old)
+	Line 2530: [2013-01-07 08:04:26] <Cosmo_> Thanks
+	Line 2553: [2013-01-07 08:08:28] <Cosmo_> Just imported the raw data as many different ways I could. Through GSM it sounds like wall-e fucking a speak and spell.
+	Line 2556: [2013-01-07 08:08:51] <soulseekah> Cosmo_, GSM is an 8-bit encoding right?
+	Line 2566: [2013-01-07 08:09:31] <Cosmo_> Honestly in terms of audacity I have no idea.
+	Line 2574: [2013-01-07 08:11:13] <Lurker69> this is pretty much all until Cosmo_ came in channel
+	Line 2587: [2013-01-07 08:14:10] <Cosmo_> Getting nothing in terms of audio with the Raw data, but without knowing a sample rate to head for it's always just going to come out as bleeps and bloops at best, white noise at worst
+	Line 2589: [2013-01-07 08:14:27] <soulseekah> Cosmo_, yes
+	Line 2694: [2013-01-07 08:37:37] <Cosmo_> Random info injection. Using your guys most recent raw data from twitter and converting it using GSM 6.10 into audacity creates an apparent random sounding soundscape that fits vocal frequency range. Gonna see if that leads anywhere.
+	Line 2695: [2013-01-07 08:37:52] <soulseekah> Cosmo_, interesting good luck
+	Line 2698: [2013-01-07 08:39:07] <Lesmo> Interesting Cosmo_
+	Line 2746: [2013-01-07 08:59:42] <Cosmo_> You know you've been awake too long when you laugh at "Everybody loves Raymond"
+	Line 2749: [2013-01-07 09:00:41] <Cosmo_> Good point. But the tv was already on and the remote is at least....oohh...... 3 feet away.
+	Line 2751: [2013-01-07 09:01:14] <Cosmo_> Anyway, back to audacity
+	Line 2797: [2013-01-07 09:12:18] <Cosmo_> It changed after midnight (i'm on the GMT)
+	Line 2805: [2013-01-07 09:13:30] <Cosmo_> I wonder if there'll ever be anything that points to a location rather than an answer
+	Line 2807: [2013-01-07 09:13:45] <Cosmo_> if it's all around, we should be able to see or experience it somewhere
+	Line 2818: [2013-01-07 09:14:43] <Cosmo_> or 3301, all around you
+	Line 2827: [2013-01-07 09:15:37] <Cosmo_> Remember who we're dealing with, i don't know if they'd leave anything default
+	Line 2854: [2013-01-07 09:23:07] <Cosmo_> Well....yeah
+	Line 2857: [2013-01-07 09:24:28] <Cosmo_> They're all looking at the stuff coming from the twitter. That's all dutch to me so I'm tearing the mp3 to pieces.
+	Line 2955: [2013-01-07 09:54:40] <Cosmo_> Exciting, nice job guys!
+	Line 2966: [2013-01-07 09:57:40] <Cosmo_> Just googling around with what we have, gonna trawl this, see if there's any clues
+	Line 2967: [2013-01-07 09:57:41] <Cosmo_> http://www.erolsadiku.com/DOWNLOAD/FREEMASONRY%20%28SLOBODNO%20ZIDARSTVO%29/Books-3/Gematria%2C%20A%20Preliminary%20Investigation%20of%20the%20Cabala.pdf
+	Line 2974: [2013-01-07 10:00:01] <Cosmo_> Why are we only getting a chart of prime numbers anyway?
+	Line 2978: [2013-01-07 10:02:00] <Cosmo_> The symbols in the gematria don't match 3301's table either.
+	Line 2981: [2013-01-07 10:02:30] <Ymgve> Cosmo_: Gematria or gimatria (Hebrew: ??????? gema?riya) is a system of assigning numerical value to a word or phrase
+	Line 2984: [2013-01-07 10:03:30] <Cosmo_> Ymgve: I'm literally just learning all of this . I'll keep my mouth shut untill I've learnt more.
+	Line 2986: [2013-01-07 10:03:44] <Cosmo_> Maybe, I'm scanning
+	Line 3012: [2013-01-07 10:11:07] <Cosmo_> I wonder if the next thing will use these symbols instead of numbers and letters.
+	Line 3243: [2013-01-07 10:50:29] <Cosmo_> Holy. Shit
+	Line 3248: [2013-01-07 10:52:12] <Cosmo_> 'revealed' through 3301
+	Line 3249: [2013-01-07 10:52:20] <Cosmo_> Strange word to use
+	Line 3259: [2013-01-07 10:54:36] <Cosmo_> You mean 'hired'? ;)
+	Line 3261: [2013-01-07 10:55:17] <Cosmo_> ....Are you a wizarD?
+	Line 3265: [2013-01-07 10:55:27] <scrounger> Cosmo_, read chapter 2 line 55 of book of the law
+	Line 3266: [2013-01-07 10:56:05] <Cosmo_> I've read it. Now forgive me while I look blankly at the screen.
+	Line 3289: [2013-01-07 11:02:02] <Cosmo_> There's another image?
+	Line 3302: [2013-01-07 11:05:35] <Cosmo_> So it leaves the question, what's next?
+	Line 3309: [2013-01-07 11:06:24] <Cosmo_> That's how it looks.
+	Line 3319: [2013-01-07 11:07:47] <Cosmo_> Also need to see how it connects back to the clues from earlier. The parable has been forgotten
+	Line 3322: [2013-01-07 11:08:06] <Cosmo_> Ymgve is a wizard of information. Fact.
+	Line 3389: [2013-01-07 11:16:46] <Cosmo_> Hahahaa, i didn't notice the little cicada symbol at the bottom, nice
+	Line 3417: [2013-01-07 11:19:12] <Cosmo_> ^
+	Line 3479: [2013-01-07 11:25:32] <Cosmo_> I've looked at the song a lot. disregard any idea that it's palindromic
+	Line 3481: [2013-01-07 11:25:48] <Cosmo_> the bpm changes between 135, 145 and 125
+	Line 3485: [2013-01-07 11:25:59] <andorraclaim> Cosmo_: thanks
+	Line 3488: [2013-01-07 11:26:12] <Cosmo_> and the reversed sections of the song are just a reversed guitar sliding on one string
+	Line 3505: [2013-01-07 11:26:51] <Cosmo_> Lemme just go check the chords
+	Line 3506: [2013-01-07 11:27:11] <Cosmo_> Oh god dammit i don't have my guitar
+	Line 3508: [2013-01-07 11:27:21] <Cosmo_> ......... It's in drop D
+	Line 3511: [2013-01-07 11:27:28] <Cosmo_> No the mp3 was important
+	Line 3521: [2013-01-07 11:28:21] <Cosmo_> Music isn't all around you. Not compared to things like 'life' or 'information' or pseudo-deep shit like that
+	Line 3523: [2013-01-07 11:28:41] <Cosmo_> The mp3 itself was important
+	Line 3525: [2013-01-07 11:28:57] <Cosmo_> the music......meh, maybe later, but as of yet I've found nothing in there
+	Line 3530: [2013-01-07 11:29:36] <Cosmo_> Oh I isolated the 'breath' sound at the start too, i'm actually pretty sure it's the sound of a group of cicadas
+	Line 3538: [2013-01-07 11:30:19] <Cosmo_> Depends what you count as interesting.
+	Line 3557: [2013-01-07 11:32:05] <Cosmo_> The  reversed music at the end is not in the same key as the rest of the song, the song was one guitar recorded by two microphones, the drums at the end are only one bass drum heavily edited.
+	Line 3559: [2013-01-07 11:32:19] <Cosmo_> Hahahaa!! Amazing
+	Line 3570: [2013-01-07 11:35:39] <Cosmo_> Style? Hard to say. Elements or country, classical.
+	Line 3579: [2013-01-07 11:36:59] <scrounger> Cosmo: so if you were going to sum it up to a deaf person, what would you say?
+	Line 3588: [2013-01-07 11:37:27] <Cosmo_> it has almost a drone bass note. What gets to me most about the song is this. It's a bad recording. As in it's been very badly recorded with what sounds like piss-poo equipment even for a bedroom set up. But it's very specifically edited.
+	Line 3590: [2013-01-07 11:37:33] <Cosmo_> A cajon? Nah they're much higher
+	Line 3591: [2013-01-07 11:37:42] <Cosmo_> You can hear the skin slap
+	Line 3593: [2013-01-07 11:37:49] <Cosmo_> whack it in audacity, amplify it by 13
+	Line 3602: [2013-01-07 11:39:06] <Cosmo_> I'm about to go to university. I won't be able to do anything other than run the mp3 through some much more advanced sound software.
+	Line 3617: [2013-01-07 11:39:36] <Cosmo_> I assume I'll come up with nothing, but hey
+	Line 3647: [2013-01-07 11:42:50] <Cosmo_> andorraclaim: I've been exploring that idea as best I can. I'm going to try a couple more things out with it, see if i can't create an image out of it. But don't get bogged down on it, these guys are moving forwards, keep up with them, I highly doubt the mp3 is going to get any more useful than it's already been
+	Line 3655: [2013-01-07 11:44:15] <andorraclaim> Cosmo_: i agree as well, i just can't help outside of this currently and this keeps ringing in my head "Web browsers are useless here."
+	Line 3694: [2013-01-07 11:46:12] <Cosmo_> andorraclaim: I become useless where they're going. I'm just constantly aware we're moving further and further away from what the clues were to begin with. I'll be keeping track, but for now, I'm off to uni to strip these older clues back to shreds
+	Line 3696: [2013-01-07 11:46:31] <AlooGobi> Ily cosmo
+	Line 3698: [2013-01-07 11:46:36] <brotherBox> Bye Cosmo_
+	Line 3700: [2013-01-07 11:46:49] |<-- Cosmo_ has left freenode (Quit: Page closed)
+	Line 4122: [2013-01-07 12:15:20] -->| Cosmo_ (4d63108b@gateway/web/freenode/ip.77.99.16.139) has joined #33012013
+	Line 4264: [2013-01-07 12:26:42] <Cosmo_> I've been here for like 12 hours and I'm still struggling because I'm mad dumb.
+	Line 4318: [2013-01-07 12:31:00] <Cosmo_> Crowley was into a lot of shit, but weirdly with everything I've learnt from all of this, he's come up so many times
+	Line 4343: [2013-01-07 12:33:14] <Cosmo_> A countdown or a time limit, hopefully the former
+	Line 4361: [2013-01-07 12:34:35] <Cosmo_> It is finished, someone managed to predict the rest of it
+	Line 4365: [2013-01-07 12:35:01] <scrounger> and how did that magical shit happen, Cosmo_? that confuse dthe fuck out of me actually
+	Line 4366: [2013-01-07 12:35:26] <Cosmo_> Yep, so he finished the image, then (And I might be wrong here) found the rest of the code just repeated 3301 over and over
+	Line 4367: [2013-01-07 12:35:26] <soulseekah> Cosmo_, it's still dumping
+	Line 4375: [2013-01-07 12:36:13] <Cosmo_> Hahaaa, we said that
+	Line 4388: [2013-01-07 12:38:25] <Cosmo_> Anyone else noticed that the conversion table has no 'v' in it?
+	Line 4397: [2013-01-07 12:39:52] <fffgg> cosmo yes we did
+	Line 4402: [2013-01-07 12:40:09] <Cosmo_> verily my vichisoirre of verbiage is impossible to convert into runes. How does cicada miss a letter by accident?
+	Line 4405: [2013-01-07 12:40:26] <artea> lol cosmo
+	Line 4417: [2013-01-07 12:41:34] <Cosmo_> Cause it's crawling out of the ground ;)
+	Line 4479: [2013-01-07 12:46:05] <Cosmo_> xor with the mp3 data
+	Line 4509: [2013-01-07 12:54:07] <Cosmo_> I just edited a very small amount in terms of the mp3 to avoid further speculation on it.
+	Line 4510: [2013-01-07 12:54:31] <Lurker69> Cosmo_: very well
+	Line 4526: [2013-01-07 12:57:13] <Cosmo_> Yeah the spaces and tabs were used to find the onion link i think.
+	Line 4532: [2013-01-07 12:57:53] <Cosmo_> didn't n_factor do it earlier?
+	Line 4542: [2013-01-07 12:59:44] <Cosmo_> Or even the quote from the law book?
+	Line 4543: [2013-01-07 12:59:53] <Cosmo_> chapter 2 line 55 if memory serves.
+	Line 4574: [2013-01-07 13:02:21] <Cosmo_> Ymgve got it from an xor of the mp3
+	Line 4586: [2013-01-07 13:03:12] <Cosmo_> [shrugs] I struggled to keep up with that guy anyway. I told you he was a wizard.
+	Line 4648: [2013-01-07 13:10:25] <Cosmo_> I swear he wrote something himself. n_factor you were here too.
+	Line 4649: [2013-01-07 13:10:50] <Cosmo_> He said something about it coming in 2 halves, but the second half being redundant
+	Line 4650: [2013-01-07 13:10:54] <Cosmo_> That's all I remember
+	Line 4656: [2013-01-07 13:16:00] <Cosmo_> Alright. I'll say it. What now?
+	Line 4661: [2013-01-07 13:17:04] <Cosmo_> Hey I suck at this stuff anyway, I'm keeping up because you guys are so good at explaining.
+	Line 4670: [2013-01-07 13:20:05] <Cosmo_> What else do you need? I'm not the greatest source, but I've been here for.....close to 14 hours on and off
+	Line 4687: [2013-01-07 13:25:26] <Cosmo_> hey sr01..... you've missed a lot
+	Line 4691: [2013-01-07 13:25:58] <Cosmo_> Go hit up the wiki again
+	Line 4697: [2013-01-07 13:26:32] <Cosmo_> But we have it
+	Line 4705: [2013-01-07 13:27:25] <Cosmo_> my bad
+	Line 4720: [2013-01-07 13:30:55] <Cosmo_> black magic and mountain dew
+	Line 4736: [2013-01-07 13:35:02] <Cosmo_> A mix of elder futhark and short twig as fas as we can tell
+	Line 4737: [2013-01-07 13:35:24] <Lurker69> Cosmo_: we didnt use runse at  all until now
+	Line 4740: [2013-01-07 13:36:30] <Cosmo_> It only came from comparisons earlier. Just after the image was given
+	Line 4744: [2013-01-07 13:37:23] <Cosmo_> We didn't use them, but a couple of people were trying to find a source
+	Line 4749: [2013-01-07 13:38:44] <Cosmo_> The viking converter or something?
+	Line 4769: [2013-01-07 13:42:09] <Lurker69>  cosmo said that cicada is coming from the ground
+	Line 4777: [2013-01-07 13:42:48] <Cosmo_> In terms of the runes we're looking at a variation on this? http://en.wikipedia.org/wiki/File:Anglosaxonrunes.svg
+	Line 4783: [2013-01-07 13:43:24] <Cosmo_> This is probably closer http://en.wikipedia.org/wiki/Anglo-Saxon_runes
+	Line 4821: [2013-01-07 13:51:53] <Cosmo_> brotherBox: Just did a double check, this is the rune alphabet used. http://en.wikipedia.org/wiki/Anglo-Saxon_runes
+	Line 4930: [2013-01-07 14:35:51] |<-- Cosmo_ has left freenode (Ping timeout: 245 seconds)
+	Line 5015: [2013-01-07 14:52:20] -->| Cosmo_ (4d63108b@gateway/web/freenode/ip.77.99.16.139) has joined #33012013
+	Line 5017: [2013-01-07 14:52:43] <Cosmo_> Afternoon
+	Line 5025: [2013-01-07 14:54:18] <Cosmo_> UK I have to assume. I know that feeling bro, I tried so hard to do uni work
+	Line 5028: [2013-01-07 14:55:00] <chimp> heh cosmo, when i was a student i wasnt even awake yet
+	Line 5033: [2013-01-07 14:55:57] <Cosmo_> Normally that'd be the case but I've been awake since yesterday.
+	Line 5132: [2013-01-07 15:18:16] <Cosmo_> So what happens if you put in a sequence of numbers in place of letters and try words? like cicada? 13 31 13 97 89 97
+	Line 5142: [2013-01-07 15:20:41] <crash_demons> Cosmo_, it lists the factorization for each as if you put them all in separately
+	Line 5147: [2013-01-07 15:21:21] <Cosmo_> oh ok
+	Line 5163: [2013-01-07 15:25:32] <Cosmo_> What if they're literally to just highlight certan letters?
+	Line 5165: [2013-01-07 15:25:37] <Cosmo_> *certain
+	Line 5177: [2013-01-07 15:28:32] <Cosmo_> Try anything that refers back to earlier clues, any other key words
+	Line 5179: [2013-01-07 15:29:36] |<-- Cosmo_ has left freenode (Quit: Page closed)
+	Line 5294: [2013-01-07 15:55:36] -->| Cosmo (4d63108b@gateway/web/freenode/ip.77.99.16.139) has joined #33012013
+	Line 5308: [2013-01-07 15:58:53] |<-- Cosmo has left freenode (Client Quit)

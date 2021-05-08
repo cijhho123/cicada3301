@@ -1,0 +1,184 @@
+Subreddits that might be interested in this:
+
+http://www.reddit.com/r/compsci
+http://www.reddit.com/r/crypto
+http://www.reddit.com/r/codes
+http://www.reddit.com/r/cryptography
+
+------------------------------------------------------------------------------------------------------------------------------
+INTRODUCTION
+
+I dont know how well you are informed with CICADA 3301 puzzles from 2012.
+
+[img]http://i.imgur.com/mxB4h.jpg[/img]
+
+Basically it is recruitment quest  of puzzles based on classical literature and pretty hard core  encrypting. 
+
+If strated for tha first time (that i know of) in january 2012. This is its secon draft that started in 5th january with post on 4chan.
+
+Common thing that sticks out from every Cicada 3301 puzzle are PRIME NUMBERS. Beautiful PRIME NUMBERS.  
+
+People who solved both puzzles they got on emails were invited to secret group consistent of people who vere able so solve same puzzle. Not much is known what those people were doing after that. It is a secret afterall. 
+
+Here I will post all the links and all the stuff you need to know.
+
+
+[b]CICADA  3301 January 2012[/b] (base info about last years challenges)
+
+http://i.imgur.com/2Zeo6.jpg start
+http://i.imgur.com/TpntC.jpg end
+
+Articles:
+http://www.istartedsomething.com/20120121/cicada-3301-cryptographic-puzzle-game-played-out-on-4chan-reddit-best-job-hire-in-disguise/
+https://github.com/bibanon/bibanon/wiki/Cicada-3301-wiki 
+http://www.clevcode.org/cicada-3301/ 
+http://www.mentalfloss.com/blogs/archives/156708 
+http://bernsteinbear.com/cicada
+
+Pastebins:
+http://pastebin.com/cfHmiCHi [i]last public message from legit cicada[/i]
+http://pastebin.com/RmqxWcnB [i]leaked mail that people got when they solve last puzzle[/i]  <-----   [b]this is a bit about cicadas beliefs and what they stand for[/b]
+http://pastebin.com/V62m76fN [i]confession of fake wind troll was published afterwards[/i]
+http://pastebin.com/4nrDxVXk [i]main two puzzles you had to solve to get invitation, prior to that you had to solve clues from literature and reddit to find onion links to submit your email[/i]
+
+
+------------------------------------------------------------------------------------------------------------------------------
+CICADA 2013 4th Jan 2013
+
+[b]CICADA 3301 round 2 in 2013[/b]
+
+[img]http://i.imgur.com/BhjYK.jpg[/img]
+
+
+OK down to business!
+
+This image was posted on 4chan in multiple thread by we dont know who on 5th January.  It consist image that when [b]outguessed[/b] (stego tool) produce this  http://pastebin.com/C5G2fNPR with legit PGP signature cicada used last year. So source IS CONFIRMED.
+
+There was one similar thread one day earlier full with old images and few interesting links and leads, but in that thread there was NO LEGIT CICADAS PGP signature, so we dont have any idea who eas posting it and how legit things there was. 
+
+[b]Here is the post that was on 4chan on 4th Jan .[/b] 
+http://chanarchive.org/4chan/b/65987/it-s-been-a-year-now-have-there-been-any-more-threads-like-this-since
+
+[b]Jan 4th 2013[/b]
+
+Note: I have no proofs that any legit cicada people were in this thread. But there was alot of guys that made some miraculous discoveries and few people who were bumping the thread so it didnt die. There sure was some preparation and few coordinated people involved in that thread. 
+
+Also note that Cicada hinted that there will be more  recruiting rounds in last message from last year. http://i.imgur.com/TpntC.jpg
+
+This are things from last 4chan thread that looks like legit  clues, I wasnt able to confirm any of them as being legit, yet! No PGP signed official message was given so far!
+
+[b]miracle no1:[/b]
+
+CONTROVERSIAL PASTEBIN   :shock:  (this document rised alot of dust) there are few differant theories what is the reason someone released it. It was writen with much care. Interpret it as you feel like.  8) 
+
+http://pastebin.com/dHJ6JNkr  guy who found it was incredibly luck and he claimed he isnt author of it
+
+People who read it usualy react in one of two ways:
+1. wow this is cleverly structured organization fighting for  basic human rights and freedom
+2. wow this looks like  cult of some sort
+
+To me it looks like it was written to attract some people and to lead some people off. You can understand it as you wish, that is your right.
+
+You get what you bring in!
+
+
+[b]
+miracle no2:[/b]
+  
+[code]I´m actually found something weird.
+Do you know sms4tor?(http://sms4tor3vcr2geip.onion/)
+I took the first 52 digits of the pgp key from >>448463952.
+
+I got this message:
+"You are near. The Mandelbrot set near the event horizon is the last clue."
+-3301"[/code]
+  
+what are the chances to find something like that on random??
+to use some random part of some random pgp key someone posted and came from last year?
+he is referring to that image http://imgur.com/e4RE2
+btw that image is publicly posted on few sites and all people from last year have it...
+
+[code] "I doubt not, i had coincidental sms4tor open at the moment so I gave it a try. What sort of verify you think of?"[/code]
+this was his answer how he found it... sounds fake as hell
+
+Clue people found by goggling Mandelbrot
+
+http://www.butterflyeffect.ca/FractalCosmology/CloseToTheEdge.pdf
+
+------------------------------------------------------------------------------------------------------------------------------
+CICADA 2013 5th Jan
+
+[b]5.1.2013[/b]
+
+Shit got real we have confirmed CICADA 3301 round 2
+with PGPs and all that
+
+http://i.imgur.com/BhjYK.jpg
+
+ 	› [b]Here  is ourguess (stego tool) output.[/b]
+
+http://pastebin.com/C5G2fNPR
+
+book is http://www.sacred-texts.com/oto/engccxx.htm
+
+ 	› [b]applying book code to text produced this link[/b]
+
+https://www.dropbox.com/s/r7sgebdtmzj14s/3301
+
+File consist of LINUX boot CD
+DATA FOLDER with 3 files
+MP3 song
+
+
+•Recording of what happens when you [b]boot that linux CD[/b]
+
+source code http://pastebin.com/sSJgTKQD (contains legit PGP)
+
+1. 
+
+http://www.youtube.com/watch?v=KG3GCWkJZ0I
+
+2. 
+
+[youtube]http://www.youtube.com/watch?v=GGMrmsWxQ5E[/youtube]
+
+•[b]Mp3 song:[/b]
+[youtube]http://www.youtube.com/watch?v=YA1fONCH-CY[/youtube]
+
+Song is [b]palindromic[/b]. As the twitter account number and numbers 3301 1033 where linux distribution stops for 2 seconds.
+
+If you open MP3 in text editor you will found hidden poem in it 
+
+https://pastee.org/ujpxy
+
+•DATA FOLDER:
+
+[img]http://img577.imageshack.us/img577/6610/8ccc54c9981741169c63944.png[/img]
+
+[b]Number  printed in final message in LINUX Boot sequence:[/b]
+
+1231507051321 It is a beautiful PRIME, [b]palindromic [/b] also
+
+http://primes.utm.edu/curios/page.php/1231507051321.html
+
+
+ 	› [b]People found this twitter account.[/b]
+
+	[url]https://twitter.com/1231507051321[/url]
+	
+------------------------------------------------------------------------------------------------------------------------------	
+CONTACT INFO
+
+If you fought through previous posts and you are still reading this you are probably interested in joining people who are solving the puzzle.
+
+that are the people we seek for, since currently we are stuck on twitter account encrapted messageds, DATA folder and poem hidden in mp3 file.
+
+[b]
+You can find people solving it here:[/b]
+chat http://webchat.freenode.net/?channels=#33012013
+
+	
+[b]wiki:[/b]	
+	[url]http://uncovering-cicada.wikia.com/wiki/Status[/url]
+	[url]http://uncovering-cicada.wikia.com/wiki/What_We_Know[/url]
+	[url]http://uncovering-cicada.wikia.com/wiki/Uncovering_Cicada_Wiki[/url]
