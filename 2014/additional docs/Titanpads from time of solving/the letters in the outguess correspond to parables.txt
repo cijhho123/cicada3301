@@ -1,0 +1,29 @@
+3PI:6:1:3           Three-Part Invention 29        ( e) u
+LML:1:1:1                Little Harmonic Labyrinth 103 ( t) t
+3
+ETOATS:19:9:1        Edifying Thoughts of a Tobacco Smoker 480 ( t) q
+...AF:5:3:1                Ant Fugue 311        Prelude ... 275 ( i)t
+AMO:13:10:1                Introduction: A Musico-Logical Offering 3           231( t)
+CC:8:6:1                Crab Canon 199(c) (?)(B?)
+CBIA:3:7:2                Canon by Intervallic Augmentation 153(c) (r)
+CFAF:5:23:6                Chromatic Fantasy, And Feud 177(??) (v)
+SPR:1:8:1                Six-Part Ricercar 720   
+Structures and Processes 127(c) (s)
+7
+C[1]:4:5:3                Contracrostipunctus 75(e) (d)
+AWDV:6:2:1                Aria with Diverse Variations 391(h)
+C[2]:2:17:5                Contrafactus 633(v)
+SC:3:17:1                Sloth Canon 681(b)                
+AOGS:2:8:1                Air on G's String 431(o)
+ONION
+
+
+
+et3titcc_c7ehvbo.onion didn't work (for _ = a-z)
+ut3qt
+
+zoanthal
+vs7dtvzp.onion
+
+ut3qtzbrZvs7dtvzp.onion/ 
+goodjob!

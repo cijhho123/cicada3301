@@ -1,0 +1,323 @@
+Analyzing onion-2:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 0000C414 with entropy 6.854.
+ 
+Analyzing onion-3:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 0000C0AF with entropy 6.868.
+ 
+Analyzing onion-4:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 000012C3 with entropy 6.880.
+ 
+Analyzing onion-2^onion-3:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 00009041 with entropy 6.870.
+ 
+Analyzing onion-3^onion-4:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 00003B35 with entropy 6.873.
+ 
+Analyzing onion-4^onion-2:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 0000DE3C with entropy 6.857.
+ 
+Analyzing onion-2^onion-3^onion-4:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 00004FB7 with entropy 6.862.
+ 
+Analyzing onion-2-reversed:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 00002DC6 with entropy 6.869.
+ 
+Analyzing onion-3-reversed:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 000060F8 with entropy 6.887.
+ 
+Analyzing onion-4-reversed:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 000069AA with entropy 6.876.
+ 
+Analyzing onion-2-reversed^onion-3-reversed:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 0000DDE7 with entropy 6.864.
+ 
+Analyzing onion-3-reversed^onion-4-reversed:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 00006C9A with entropy 6.865.
+ 
+Analyzing onion-4-reversed^onion-2-reversed:'\001.bin' [58,152 bytes].
+Found lowest entropy at offset 000063C7 with entropy 6.859.
+ 
+Analyzing onion-2-reversed^onion-3-reversed^onion-4-reversed:'\001.bin' [58,152 bytes].
+ 
+Found low entropy alignment at offset 000090EF with entropy 6.847.
+%\u001D?\u0011?O\u000F??{AHH$'??$?9d#?[CHR???@@w$t?\u0013??p'?\u0019???r?=?E?DP?\u0014?_T'?\u0000%.\u000C`?D??????/?\u0014\u001B$??u????}\u000B\u001D?1?i?Q?{Q??????*???5?^?P\u0000b^\u0002?\u000A????R??\u001A7\u0018??\u0002<]Q????\u0002\u000B?G?w???q\u0013?`w#?t??,$???@??????\u0002R???C#\u000C??*?d:???u?+I/F??\u0002???La^??\u0000?<?H??.P\u000A\u0002c:Q\u0000??}r?d?\u0007v?F%*=\u001Ae???\u0008?T\u0008@g(<_Hj,H?\u0019.?a
+ 
+Found lowest entropy at offset 000090EF with entropy 6.847.
+ 
+Analyzing onion-2:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000C493 with entropy 6.869.
+ 
+Analyzing onion-3:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000C026 with entropy 6.880.
+ 
+Analyzing onion-4:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 00009DC3 with entropy 6.865.
+ 
+Analyzing onion-2^onion-3:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 00003B2C with entropy 6.896.
+ 
+Analyzing onion-3^onion-4:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 000073F3 with entropy 6.880.
+ 
+Analyzing onion-4^onion-2:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 00009F76 with entropy 6.875.
+ 
+Analyzing onion-2^onion-3^onion-4:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 00003369 with entropy 6.899.
+ 
+Analyzing onion-2-reversed:'\001_002.bin' [58,152 bytes].
+ 
+Found low entropy alignment at offset 000057B2 with entropy 6.846.
+\u0016???{?0]?r????????kI\u0003?\u0016?V?:?`L???\u000D???????d??D???o_d\u000FC??S$N?????\u0003?????0\u0012??]#Rl\u000D????Dq?w??/?p? iF??7l?.RS?ZE c?????\u0003?C\u0004$\u0015 ???\u0005??"\u00191?C????\u0009 $??K\u0019???T\u0018*\u000F??\u001AQw?\u0012\u0007\u001B?$?,???B???#X??7?\u0003[x??t??? tQ$\u0009\u001E?R{??J\u0014[\u0005???`F?Z?? {?_?6?n?2?]??@?????\u0008\u0016??\u000D/?=\u0000?-??\u0017*Q'?c??EcC??y=
+ 
+Found lowest entropy at offset 000057B2 with entropy 6.846.
+ 
+Analyzing onion-3-reversed:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000DCF0 with entropy 6.855.
+ 
+Analyzing onion-4-reversed:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000D569 with entropy 6.895.
+ 
+Analyzing onion-2-reversed^onion-3-reversed:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 000009D6 with entropy 6.890.
+ 
+Analyzing onion-3-reversed^onion-4-reversed:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000D2EF with entropy 6.892.
+ 
+Analyzing onion-4-reversed^onion-2-reversed:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 00007D6F with entropy 6.885.
+ 
+Analyzing onion-2-reversed^onion-3-reversed^onion-4-reversed:'\001_002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000AA2C with entropy 6.898.
+ 
+Analyzing onion-2:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 000012AD with entropy 6.865.
+ 
+Analyzing onion-3:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00003D73 with entropy 6.862.
+ 
+Analyzing onion-4:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00002154 with entropy 6.853.
+ 
+Analyzing onion-2^onion-3:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00008E76 with entropy 6.877.
+ 
+Analyzing onion-3^onion-4:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00005719 with entropy 6.885.
+ 
+Analyzing onion-4^onion-2:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000802C with entropy 6.867.
+ 
+Analyzing onion-2^onion-3^onion-4:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00001E9A with entropy 6.853.
+ 
+Analyzing onion-2-reversed:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000D2A5 with entropy 6.895.
+ 
+Analyzing onion-3-reversed:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 000073DB with entropy 6.887.
+ 
+Analyzing onion-4-reversed:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000B574 with entropy 6.869.
+ 
+Analyzing onion-2-reversed^onion-3-reversed:'\001_002_003.bin' [58,152 bytes].
+ 
+Found low entropy alignment at offset 0000CD4E with entropy 6.849.
++p??u\u0016h0pP\u007F\u0016o\u000En??X?K\u0016c?\u001A*??Z%?4\u0009?\u001A?\u001A\u0002\u000EggL2,Q?o?W??}\u0011??\u0008\u00182??;>\u001D?\?t????,r?|\u0017\u0006T?BM??-?l?~?Hc??i?\u0016o??\u0006?\u000B?Bqt\\u000Eeu???\u000A?_???L??2\u000E??&???(??\u0002?\u0007L\u0003????8???c\u000A?M???\u000Dnk??\u0011%;?-3{??YT\u0018\u0009?8??\u0007B\u0009\u0006????\u0017p\u001A*?N???3??sA|*\u007F?&cg\u0006?oj?TO\u0012+\u0011??t??~e\u0013?2\u0000>?Ir??BZ??P2q\u0018???q?M~\u0000??b??\u0010zX+;
+ 
+Found lowest entropy at offset 0000CD4E with entropy 6.849.
+ 
+Analyzing onion-3-reversed^onion-4-reversed:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00001C9D with entropy 6.881.
+ 
+Analyzing onion-4-reversed^onion-2-reversed:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00006684 with entropy 6.851.
+ 
+Analyzing onion-2-reversed^onion-3-reversed^onion-4-reversed:'\001_002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 000048F5 with entropy 6.863.
+ 
+Analyzing onion-2:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000790E with entropy 6.874.
+ 
+Analyzing onion-3:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 00009076 with entropy 6.881.
+ 
+Analyzing onion-4:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 000010DE with entropy 6.877.
+ 
+Analyzing onion-2^onion-3:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000DAE1 with entropy 6.886.
+ 
+Analyzing onion-3^onion-4:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 00000DA1 with entropy 6.871.
+ 
+Analyzing onion-4^onion-2:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 00009520 with entropy 6.876.
+ 
+Analyzing onion-2^onion-3^onion-4:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000DACD with entropy 6.894.
+ 
+Analyzing onion-2-reversed:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000821D with entropy 6.859.
+ 
+Analyzing onion-3-reversed:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000A1D8 with entropy 6.885.
+ 
+Analyzing onion-4-reversed:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000994B with entropy 6.862.
+ 
+Analyzing onion-2-reversed^onion-3-reversed:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000725D with entropy 6.890.
+ 
+Analyzing onion-3-reversed^onion-4-reversed:'\002.bin' [58,152 bytes].
+ 
+Found low entropy alignment at offset 000039AA with entropy 6.845.
+?WK????PE\u0008???\u000E???h\u0013\u00195?x?aX?????????\u0011?`???aq???????K?|2??H\u00091~??8|???"?p?\u001C??8?[?\??p?]+?\b\u0011???aP??\u0005z}?iq'q?>?B?FoL?\u0000b?L???~?D?\u0011}?i\u001Fohd]???&\u001Fn?4????KJr??8?1"?\u0018???%k#??D\u0005?r\u0007\u0013????b\u0011????"?[?|6?M?4^?H??\u0017\u001F?\u000C???r|?&2U???1X???,)????4\u0005?\u0015\u0016?????XE??cf@????P\u0017??$?L`??\u0011\u007F?
+ 
+Found lowest entropy at offset 000039AA with entropy 6.845.
+ 
+Analyzing onion-4-reversed^onion-2-reversed:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 0000B088 with entropy 6.873.
+ 
+Analyzing onion-2-reversed^onion-3-reversed^onion-4-reversed:'\002.bin' [58,152 bytes].
+Found lowest entropy at offset 00006221 with entropy 6.896.
+ 
+Analyzing onion-2:'\002_003.bin' [58,152 bytes].
+ 
+Found low entropy alignment at offset 0000686F with entropy 6.850.
+&????O???\u0005?ow??????W?\u0016!\u007F??^k??\u001C'?\Q?<)\u0007???&?\u0019Fv+PF???8I?\u0011t\u0002d??\u000C???&Z??\u0011??Z?L?.e??\u0011?7r??\u0011?0?????;X?Q{)9\u0002W?H+n??T.?\u0004?J8m?m\u000AZ?????KL??mv\u0005\u001C???\u0016??#\u0008U?\u0019J?HF?t?$?{uUb/????????S?)\u000BrY\u0007?\u0005Sr\u0019\u0002???????\u0016???}??U??o\u0013?F????;?\u000C????y???+?????[????e????[???????????8??\u0011j&?????
+ 
+Found lowest entropy at offset 0000686F with entropy 6.850.
+ 
+Analyzing onion-3:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00005335 with entropy 6.871.
+ 
+Analyzing onion-4:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000469A with entropy 6.900.
+ 
+Analyzing onion-2^onion-3:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00003A05 with entropy 6.852.
+ 
+Analyzing onion-3^onion-4:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000DFD2 with entropy 6.876.
+ 
+Analyzing onion-4^onion-2:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00008EAF with entropy 6.873.
+ 
+Analyzing onion-2^onion-3^onion-4:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 000025F6 with entropy 6.890.
+ 
+Analyzing onion-2-reversed:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00004E97 with entropy 6.867.
+ 
+Analyzing onion-3-reversed:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00009FFA with entropy 6.864.
+ 
+Analyzing onion-4-reversed:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 000040E4 with entropy 6.868.
+ 
+Analyzing onion-2-reversed^onion-3-reversed:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000E1AA with entropy 6.869.
+ 
+Analyzing onion-3-reversed^onion-4-reversed:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000BC4C with entropy 6.876.
+ 
+Analyzing onion-4-reversed^onion-2-reversed:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000AE9E with entropy 6.869.
+ 
+Analyzing onion-2-reversed^onion-3-reversed^onion-4-reversed:'\002_003.bin' [58,152 bytes].
+Found lowest entropy at offset 00002857 with entropy 6.870.
+ 
+Analyzing onion-2:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00007C21 with entropy 6.860.
+ 
+Analyzing onion-3:'\003.bin' [58,152 bytes].
+ 
+Found low entropy alignment at offset 0000BEFC with entropy 6.843.
+?\u0006??e? o?g???W{\u000DJ+?e\u0018\u001D???.??3g7w?\u0014jP)2?}??\u001Da\u000E??????(C\u001A?>??x?2uX?\u001C?D??\u001E[\u0019V??e?bJ?\u00041???\u0016?`???\u0005???i\u000E????5???n'\u000B??????R??|?\u0000?#???M?0?\u0003???\u000A_q?q? ?4?????????\u0000`?g??(???\u0019??\u0003\u0000!:T\u0011!?\u000D?w\u0000wE??q%???_\u0007??]???\u0017|??w?c9\u0005??}j\u0003 ?%?ww?s.f????$W??.W?`???\u0001???]?g?????? ??f\u0000??C???
+ 
+Found lowest entropy at offset 0000BEFC with entropy 6.843.
+ 
+Analyzing onion-4:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000D59E with entropy 6.876.
+ 
+Analyzing onion-2^onion-3:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00006A56 with entropy 6.863.
+ 
+Analyzing onion-3^onion-4:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00000DA1 with entropy 6.871.
+ 
+Analyzing onion-4^onion-2:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00000F56 with entropy 6.898.
+ 
+Analyzing onion-2^onion-3^onion-4:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00009430 with entropy 6.881.
+ 
+Analyzing onion-2-reversed:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 000035AB with entropy 6.895.
+ 
+Analyzing onion-3-reversed:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00004719 with entropy 6.867.
+ 
+Analyzing onion-4-reversed:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00006163 with entropy 6.851.
+ 
+Analyzing onion-2-reversed^onion-3-reversed:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 0000C10C with entropy 6.870.
+ 
+Analyzing onion-3-reversed^onion-4-reversed:'\003.bin' [58,152 bytes].
+ 
+Found low entropy alignment at offset 0000D5D7 with entropy 6.835.
+??$,`??\u0013?\u0003~[?f????\u007F?@?\u0012o????V? `??D????x?Z\u0010\u0005\u001B???">2???<\u0012?O??\u0002(??P??Z!(\u0005???_\u0014\u0006\u0010+??t??@t@\u0003\u0009C$4?\u0010?h?P?%????hrSM?E,y?d\u001A<\u0015A??\u0005`~??\u0001u?\u0000,?? \u0013$?m?K?]~/\u0017??h????\u0006"???\u000C??`Z?6<?do*?'?\u001AS\u0013???3:7\u0003?`\u000B\u0003??:?k$?????\u0017?P???B???????s??vKA?\u0005vrM?5?T?\u0016*\u000C?[Op\u0001u??????? ?S\u00102?-PP???\u0012?
+ 
+Found lowest entropy at offset 0000D5D7 with entropy 6.835.
+ 
+Analyzing onion-4-reversed^onion-2-reversed:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00008897 with entropy 6.878.
+ 
+Analyzing onion-2-reversed^onion-3-reversed^onion-4-reversed:'\003.bin' [58,152 bytes].
+Found lowest entropy at offset 00006FFB with entropy 6.861.
+ 
+Analyzing onion-2:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 000055D0 with entropy 6.886.
+ 
+Analyzing onion-3:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 0000B17E with entropy 6.883.
+ 
+Analyzing onion-4:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 000070B8 with entropy 6.873.
+ 
+Analyzing onion-2^onion-3:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 0000D927 with entropy 6.900.
+ 
+Analyzing onion-3^onion-4:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 00007C8D with entropy 6.861.
+ 
+Analyzing onion-4^onion-2:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 00003AC3 with entropy 6.863.
+ 
+Analyzing onion-2^onion-3^onion-4:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 000046BD with entropy 6.882.
+ 
+Analyzing onion-2-reversed:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 00005B77 with entropy 6.884.
+ 
+Analyzing onion-3-reversed:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 00000C3B with entropy 6.857.
+ 
+Analyzing onion-4-reversed:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 0000574D with entropy 6.880.
+ 
+Analyzing onion-2-reversed^onion-3-reversed:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 00005019 with entropy 6.889.
+ 
+Analyzing onion-3-reversed^onion-4-reversed:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 00002D0F with entropy 6.873.
+ 
+Analyzing onion-4-reversed^onion-2-reversed:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 00002F5E with entropy 6.891.
+ 
+Analyzing onion-2-reversed^onion-3-reversed^onion-4-reversed:'\003_001.bin' [58,152 bytes].
+Found lowest entropy at offset 0000CDD3 with entropy 6.866.
+ 
+Done.

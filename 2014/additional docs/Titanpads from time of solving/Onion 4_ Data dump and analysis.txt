@@ -1,0 +1,212 @@
+===============================================================================
+ONION 4 Main data dump and all things tested so far
+===============================================================================
+
+onion4 data downlodaded as onion4.hex (https://infotomb.com/vnq3e)
+onion4.hex has no GPG signature
+
+xxd -r -p onion4.hex onion4.bin
+
+file onion4.bin:
+onion4.bin: gzip compressed data, was "data.out", from Unix, last modified: Fri Jan 24 21:10:12 2014
+
+mv onion4.bin onion4.gz
+gunzip onion4.gz --> onion4
+
+mv onion4 onion4.bin
+ 
+../scripts/DetectJPG_v2.py -i onion4.bin
+ 
+--------------------------------------------------------
+DETECT_JPG: SEARCHING FOR JPGS IN BINARY DATA
+--------------------------------------------------------
+ 
+Read onion4.bin with 3010703 bytes
+ 
+ --- scanning data ---
+ 
+Detected jpg. Begin: 0 End 823807
+Saving as onion4.image00.jpg
+Detected jpg. Begin: 823807 End 1647321
+Saving as onion4.image01.jpg
+ 
+ --- reversing byte order ---
+ 
+ --- scanning data ---
+ 
+Detected jpg. Begin: 0 End 638805
+Saving as onion4.image02.jpg
+Detected jpg. Begin: 638805 End 1363382
+Saving as onion4.image03.jpg
+ 
+ --- looking for bytes not used in jpegs ---
+ 
+ 
+ --- Done ---
+
+JPGs uploaded:
+https://infotomb.com/qjiqh      --> onion4.image00
+https://infotomb.com/3vw2u      --> onion4.image01
+https://infotomb.com/609xy      --> onion4.image02
+https://infotomb.com/8do0b      --> onion4.image03
+
+
+-------------------------------------------------------------------------------
+OUTGUESS
+-------------------------------------------------------------------------------
+
+We try outguess of the following images (see above where they come from):
+outguess -r onion4.image00.jpg outguess00.dat --> binary data (58152 bytes)
+outguess -r onion4.image01.jpg outguess01.dat --> binary data (58152 bytes)
+outguess -r onion4.image02.jpg outguess02.dat --> ASCII/text  (140 bytes)
+outguess -r onion4.image03.jpg outguess03.dat --> binary data (58152 bytes)
+
+onion4.image02.jpg has ASCII outguess:
+
+For those who have fallen behind:
+
+TL BE IE OV UT HT RE ID TS EO ST PO SO YR 
+SL BT II IY T4 DG UQ IM NU 44 2I 15 33 9M
+
+Good luck.
+
+3301
+
+
+Note that this is _NOT_ signed with GPG/PGP
+Letter frequency very similar to english plaintext
+trying caesar ... no decryption
+trying columnar transposition ... Decryption:
+
+TLBEIEO                           TOBELIE
+VUTHTRE                           VETRUTH
+IDTSEOS                           ISTODES
+TPOSOYR   reordering columns      TROYPOS
+SLBTIII   -------------------->   SIBILIT
+YT4DGUQ                           YQ4UTGD
+IMNU442                           I2N4M4U
+I15339M                           IM59133
+
+TO BELIEVE TRUTH IS TO DESTROY POSSIBILITY Q4UTGDI2N4M4UIM59133
+
+removing the last 4 digits from the last 'word' we get ONION 5:
+
+http://q4utgdi2n4m4uim5.onion/
+
+-------------------------------------------------------------------------------
+Runepages translated
+-------------------------------------------------------------------------------
+Others were faster (thanks sibilance):
+
+Translation of rune pages: https://gist.github.com/anonymous/ab917b4c225859c8c2b2
+
+-------------------------------------------------------------------------------
+Testing outguess00,01 and 02 (each 58152 bytes binary data)
+-------------------------------------------------------------------------------
+
+Note: In the following I will use the names onionX.string with X in {2,3,4} for
+the three 256 byte strings from these onions.
+
+No useable (as in images/text/compressed data/mp3) file headers found in 
+outguess00.dat (58152 bytes) at any offset
+No useable (as in images/text/compressed data/mp3) file headers found in 
+outguess01.dat (58152 bytes) at any offset
+No useable (as in images/text/compressed data/mp3) file headers found in 
+outguess03.dat (58152 bytes) at any offset
+
+outguess00.dat  --> Entropy: 7.99
+outguess01.dat  --> Entropy: 7.99
+outguess03.dat  --> Entropy: 7.99
+
+outguess00.dat  --> Frequency analysis: http://imgur.com/z7BdNnz
+outguess01.dat  --> Frequency analysis: http://imgur.com/xgFA9i0
+outguess03.dat  --> Frequency analysis: http://imgur.com/RkgEpfb
+
+outguess00.dat  --> Fourier analysis: http://imgur.com/yD2GFTA
+outguess01.dat  --> Fourier analysis: http://imgur.com/7g5RaJK
+outguess03.dat  --> Fourier analysis: http://imgur.com/koOqixA
+
+-------------------------------------------------------------------------------
+XOR the outguesses (all three non-ASCII outguesses have the same size):
+-------------------------------------------------------------------------------
+
+file: outguess00_XOR_outguess01.dat: data
+file: outguess00_XOR_outguess03.dat: data
+fiel: outguess01_XOR_outguess03.dat: data
+file: outguess00_XOR_outguess01_XOR_outguess03.dat: data
+--> Only binary data, no readable files
+--> No file legit file headers found at any offset in these files.
+
+I find no legit headers for images/text/compressed files/mp3 in any combination
+in which the three 58152 byte outguess binary blobs from onion4 can be XORed at
+any offset.
+
+outguess00 XOR onion2.string at all offsets --> min. entropy 6.96
+outguess00 XOR onion3.string at all offsets --> min. entropy 6.94
+outguess00 XOR onion3.string at all offsets --> min. entropy 6.94
+outguess00 XOR onion2.string_reversed at all offsets --> min. entropy 6.94
+outguess00 XOR onion3.string_reversed at all offsets --> min. entropy 6.95
+outguess00 XOR onion3.string_reversed at all offsets --> min. entropy 6.93
+No readable files (of types text/image/gzip/zip/bzip2/mp3) found at any offset
+
+outguess01 XOR onion2.string at all offsets --> min. entropy 6.95
+outguess01 XOR onion3.string at all offsets --> min. entropy 6.92
+outguess01 XOR onion3.string at all offsets --> min. entropy 6.94
+outguess01 XOR onion2.string_reversed at all offsets --> min. entropy 6.94
+outguess01 XOR onion3.string_reversed at all offsets --> min. entropy 6.97
+outguess01 XOR onion3.string_reversed at all offsets --> min. entropy 6.95
+No readable files (of types text/image/gzip/zip/bzip2/mp3) found at any offset
+
+outguess03 XOR onion2.string at all offsets --> min. entropy 6.95
+outguess03 XOR onion3.string at all offsets --> min. entropy 6.95
+outguess03 XOR onion3.string at all offsets --> min. entropy 6.94
+outguess03 XOR onion2.string_reversed at all offsets --> min. entropy 6.96
+outguess03 XOR onion3.string_reversed at all offsets --> min. entropy 6.94
+outguess03 XOR onion3.string_reversed at all offsets --> min. entropy 6.94
+No readable files (of types text/image/gzip/zip/bzip2/mp3) found at any offset
+
+
+-------------------------------------------------------------------------------
+XORing the three 256 byte strings from onion 2,3,4 against the onion4 jpgs
+(Entropy and scan for file header)
+-------------------------------------------------------------------------------
+
+No useable file headers (for images/text/compressed data/mp3) found in 
+onion4.image00.jpg (823807 bytes) XORed with any of the 256 byte strings or 
+their byte-order reversed copies at all possible offsets. 
+Minimum entropy is 6.89
+
+No useable file headers (for images/text/compressed data/mp3) found in 
+onion4.image01.jpg (823514 bytes) XORed with any of the 256 byte strings or 
+their byte-order reversed copies at all possible offsets. 
+Minimum entropy is 6.89
+
+No useable file headers (for images/text/compressed data/mp3) found in 
+onion4.image02.jpg (638805 bytes) XORed with any of the 256 byte strings or 
+their byte-order reversed copies at all possible offsets. 
+Minimum entropy is 6.88
+
+No useable file headers (for images/text/compressed data/mp3) found in 
+onion4.image03.jpg (724577 bytes) XORed with any of the 256 byte strings or 
+their byte-order reversed copies at all possible offsets. 
+Minimum entropy is 6.88
+
+-------------------------------------------------------------------------------
+NON ASCII OUTGUESSES vs. onion5.mp3
+-------------------------------------------------------------------------------
+
+XORed all three 58152 byte non ascii outguesses from onion4 with the onion5.mp3
+at all possible offsets. I scanned for file headers but found no readable 
+files. The minimum entropy is around 7.9 in all cases.
+
+-------------------------------------------------------------------------------
+List of uploaded data from onion4
+-------------------------------------------------------------------------------
+
+https://infotomb.com/vnq3e      --> onion4.hex
+https://infotomb.com/qjiqh      --> onion4.image00.jpg
+https://infotomb.com/3vw2u      --> onion4.image01.jpg
+https://infotomb.com/609xy      --> onion4.image02.jpg
+https://infotomb.com/8do0b      --> onion4.image03.jpg
+http://pastebin.com/kqfUPAvV    --> onion4.image02.outguess.dat
+_______________________________________________________________________________

@@ -1,0 +1,26 @@
+------ CONVERT HEX in ascii to binary code
+import sys
+import base64
+
+f = open(sys.argv[1])
+sys.stdout.write(base64.b16decode(f.read().replace('\n', ''),'true'))
+
+----- REVERSE
+import sys
+f = open(sys.argv[1])
+sys.stdout.write(f.read()[::-1])
+
+----- XOR
+# usage: xor.py file1 file2 offset1 offset2
+
+import sys
+
+with file( sys.argv[1], 'rb' ) as one:
+    with file( sys.argv[2], 'rb' ) as two:
+        one.seek( int( sys.argv[3] ) )
+        two.seek( int( sys.argv[4] ) )
+        for c in one.read():
+            try:
+                sys.stdout.write( chr( ord( c ) ^ ord( two.read( 1 ) ) ) )
+            except:
+                break

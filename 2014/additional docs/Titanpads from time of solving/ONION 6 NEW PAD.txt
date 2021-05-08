@@ -1,0 +1,194 @@
+excelente sinopse fazer os geeks de para nazgul
+cebola 5 ( http://pastebin.com/pFLQhtXQ) e cebola 6 ( http://pastebin.com/aAL31YCc)
+
+
+onion 6t
+
+
+onion 6 w
+http://ut3qtzbrvs7dtvzp.onion/
+
+                                                                                       
+                                                On the Wiki                                                                                                          
+                                                                                Wiki Activity                                                                                                                                                          
+                                                                                Random page                                                                                                                                                          
+                                                                                Videos                                                                                                                                                          
+                                                                                Photos                                                                                                                                                          
+                                                                                        
+                                                Popular pages                                                                                                                                                                                                   
+                                                Community                                                                                                                                                                                                   
+                 
+         
+                          Contribute                                                                                       Share     
+    
+                Watchlist                Random page                Recent changes    
+                                                                                                             
+                                     CICADA 3301 2014 PUZZLE FACTS PART 7                                     Edit                                                                                Comments5         
+                        156pages on
+ this wiki        
+                                                                                    
+                                                                                                                                                                    
+Contents[show]
+Cicada 3301 2014 Main articles and SubpagesEdit
+Main articles:
+
+MAIN CICADA 3301 2014 PAGE PART 7  >NEW DISCOVERIES<
+MAIN CICADA 3301 2014 PAGE PART 6 DISCONTINUED 
+MAIN CICADA 3301 2014 PAGE PART 5  DISCONTINUED
+MAIN CICADA 3301 2014 PAGE PART 4  DISCONTINUED
+MAIN CICADA 3301 2014 PAGE PART 3    DISCONTINUED
+MAIN CICADA 3301 2014 PAGE PART 2  DISCONTINUED
+MAIN CICADA 3301 2014 PAGE PART 1 DISCONTINUED
+PROGRESS OVERVIEW
+ [Expand] 
+Subpages, tools, splinter groups, other sources...
+NOW WE ARE GETTING PERSONAL, SO NO MORE PUBLICLY OPEN PROGRESSEdit
+But at least  for me; I will still try to post all directions, links and insturctions how to solve next steps in this wiki. 
+Not giving exact solutions but trying to help you all learn how  to solve this. Although I think even I will get lost alo the way at some  point. Setting up apache and onion hidden service or any other  HTTP/WWW/TCP/IP/CGI (Common Gateway Interface) server related stuff just  isnt my department. Nor is fucking with problems of various linux  distributions. 
+~Lurker69
+Create one Tor hidden service that can accept CGI file uploads.
+
+
+When this hidden service returns and can accept input, post the
+
+three magic squares and the URL to your Tor hidden service here.
+
+Work alone.
+
+
+1111111111111111
+110    12    101
+1              1
+112    14    121
+1              1
+110    12    101
+1111111111111111
+
+Good luck.
+
+3301
+: INSTRUCTION :Rules are Meant to be Broken
+PROGRAM YOUR MIND. PROGRAM REALITY!
+Is there some "french group" ahead of #cicadasolvers?Edit
+Original /x/ thread: http://boards.4chan.org/x/res/14099148
+Backup: http://archive.4plebs.org/x/thread/14099148/
+Text packup: http://pastebin.com/dBD8aHry
+
+On 30th Jan Some people who appear to be native fencsh speakers  have been bragging on 4chan that they are ahead of #cicadasolvers on  freenode, and mocking us how we didnt even found "portrait" and "squares in mp3". 
+People in #cicadsolvers mainly disregarded them as trolls not   giving them much attention. But then on 31th... onion 5 cam back up and  displayed portarit of  Andr?s del Peral - Francisco de Goya y Lucientes. Outguessing that portrait led us to  onion 6 with direction about three squares, we need to post on cicadas Onion 6 when it comes back, to reach next step. 
+Are there other groups ahead of us?  Was cicada honest when  giving us "For those who have fallen behind:" ? Was wind only luck when  she said there are other groups and that they are ahead of us? Who are  those french guys? Is is cicada mocking us? Does other group besides  facebbok and G+ exists? Does wind speaks french? Was it just borken?  What does:  "rocked to close to wall" means? 
+Added by Lurker69
+
+
+About portrait:Edit
+[16:58] <strange_tcyborg> NiceLurk: the guy in the protrait *might* be goya, really not sure, though
+[16:58] <sir_phobos> it's a goya portrait of a guy
+[16:58] <sir_phobos> http://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Portrait_of_Andr%C3%A9s_del_Peral_-_WGA10031.jpg
+
+Portrait of Andr?s del Peral - Francisco de Goya y Lucientes
+Francisco Jos? de Goya y Lucientes was a Spanish romantic painter  and printmaker regarded both as the last of the Old Masters and the  first of the moderns.
+
+Andr?s del Peral worked as a  craftsman-painter and gilder at the court of Madrid from the late 1770s  to the early 1820s. He is the man of the same name who is recorded as  having formed a large collection of small paintings by Goya. 
+source: https://infotomb.com/ppb2o, brotherbox
+Added by Lurker69
+
+
+
+In top right corner i what looks like superimposed Portrait of what is believed to be Rasputin. 
+This might be rasputin source: (Needs to be checked in PS) 
+[1]
+[2]
+[3]
+[4]
+[5]<--best fit 
+[18:24] <Valkyrie> http://prntscr.com/2o9mt6  it think its safe to say the had i cut off, there are many straight lines on the beard 
+
+
+I heard that there are also hidden numbers and cicada logo  image. (Needs to be checked in PS) 
+Original source: http://commons.wikimedia.org/wiki/File:Francisco_de_Goya_y_Lucientes_-_Portrait_of_Andr%C3%A9s_del_Peral_-_WGA10031.jpg
+
+
+
+Add a photo to this gallery
+HOW TO SET UP TOR HIDDEN SERVICE
+(or how to make your own .onion web page)Edit
+Not my area of expertise. Maybe someone who knows more about it will put better instructions here. 
+I can just post few links i gound by quick googling. Few more can  be found in lgos from 2013 wen we also had to setup tor hidden service  and players were helping eac ther to solve poblems they encouter during  sutup. 
+Just few links i found googling, didnt try tohem though 
+https://www.torproject.org/docs/tor-hidden-service.html.en
+http://medoix.com/2012/01/28/tor-hidden-service-on-ubuntu/
+http://infinitecointalk.org/index.php?topic=1011.0
+
+Or, as eonn said: [18:36] <eonn> just take a free amazon server 
+This should be whyt you ned to do and all instructions you need:
+[20:52] <cheetahburn> i am done
+[20:52] <cheetahburn> http://kholyg7cewyywujo.onion/cicada.tgz
+[20:52] <cheetahburn> there one could download my full package
+[20:52] <cheetahburn> it includes a readme to use it properly
+[20:52] <cheetahburn> at least i hope 
+
+
+Please post and good tutoials about setting up Tor hidden service with apache or any other way here!
+Many people might try it and we will have probbaly flood of questions regarding this in chat.
+Info about what happened on onion 5 and onion 6 on 30-31 Jan 2014Edit
+Since I still dont have clue what happened I will just dip what i have. SO be patient with errors and mistakes and missinfo. 
+0A9V
+The story of onion 6 (so far) with link for data download: http://pastebin.com/aAL31YCc
+
+header empty
+
+text only with comment 
+https://infotomb.com/4lurl
+
+
+cat ut3qtzbrvs7dtvzp.raw.txt |grep -v 761 > o6.hex
+wc o5.hex
+  133149  133149 8122075 o6.hex
+
+
+http://dump.sidvind.com/cicada_2014/8/
+
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+ 
+Create one Tor hidden service that can accept CGI file uploads.
+
+When this hidden service returns and can accept input, post the
+three magic squares and the URL to your Tor hidden service here.
+
+Work alone.
+
+
+3333333333333333
+310    12    103
+3              3
+312    14    123
+3              3
+310    12    103
+3333333333333333
+
+
+Good luck.
+
+3301
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJS24E0AAoJEBgfAeV6NQkPNPEP/jxtRsM2AOE3KRChpl1IHxGe
+oMyd/YjXW7/o8X6Cv+AYhzQhRhqOQPL0N+fVC2WNO64CGnOmTLbhZPoXpV1giSmA
+UguBIWZ59MmitGVmiz68M/i5H68h7s7eXoC5u7/iZjVMQBr86J1iJyeabVjJMSp+
+OI8ouTuVAZ5lccvUy9UpV82GtGZoM7P1xxWJGpM3LIz6mv7VdfogrCNAW0jhZ2/x
+8eiiHFuB5oktc9uTbIqhJQsESuc1u/uMkeb1OGXovKmD+zLtq+DPbWo8P0lnT70V
+pyLOLM5CWsAjblU+5ohK57yFP6AV6x4l97BQyRmMOojh35QGKPVULZG4sRPKsuG5
+nw93gRi6/eQ/aQvQuEvkf4lbj/V5G4kOj/YcQhyjAWdo1UPl9zkUXs2lKH7sUUms
+P1WV6eyL6rAqpUXfwpDSfaPTPquIwuFsEl5z/d14IXnR3s+LQjlFDO3DE2d9QlEr
+h5daiLFEvH+wyoJ5aPOsSkT+QJqCrVQNnbbQYzYKeMKAshu1LWuk1ZQ0XAEA6C2b
+zbiPcXg0OMO+VWkhscZwxIHr1N5TVDj3NOszCfUe7lrYZhE0F/TL50NkGxw9+2qH
+byDA8E4Yhe2c7pUVgs3OQLX46N4SOlbsH2MNXO9Y5jjI2Oj+OwLQ07F8jouNvXN4
+kY3+nCV1PPLtiOu1CCP1
+=/MnD
+-----END PGP SIGNATURE-----

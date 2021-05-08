@@ -1,0 +1,11 @@
+#!/usr/bin/env perl
+$^W = 1;
+$c = undef;
+while (<>) {
+    tr/0-9A-Fa-f//cd;
+    if (defined $c) { warn "Consuming $c"; $_ = $c . $_; $c = undef; }
+    if (length($_) & 1) { s/(.)$//; $c = $1; }
+    print pack "H*", $_;
+}
+if (!eof) { die "$!"; }
+if (defined $c) { warn "Odd number of hexadecimal digits"; }

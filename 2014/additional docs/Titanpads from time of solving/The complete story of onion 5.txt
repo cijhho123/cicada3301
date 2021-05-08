@@ -1,0 +1,180 @@
+===============================================================================
+ONION 5
+===============================================================================
+
+onion5 is http://q4utgdi2n4m4uim5.onion/
+
+Data dump (including GPG signature): https://infotomb.com/ooxyo
+
+data named as onion5.dat
+
+gpg --verify onion5.dat
+gpg: Signature made Sat 18 Jan 2014 02:03:57 AM CET using RSA key ID 7A35090F
+gpg: Good signature from "Cicada 3301 (845145127)"
+
+Extracting hexdump (remove signature) and writing as onion5.hex
+
+xxd -r -p onion5.hex onion5.bin
+
+file onion5.bin
+onion5.bin: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 192 kbps, 44.1 kHz, JntStereo
+
+mv onion5.bin onion5.mp3
+onion5.mp3 is a valid mp3 and plays a ~277 sec track.
+
+ID3 tag says 
+Title:      "Interconnectedness"
+Iterpreter: "3301"
+Encoder:    "LAME 3.98.2"
+
+-------------------------------------------------------------------------------
+XORing the mp3 with whatever we got
+-------------------------------------------------------------------------------
+
+XORed all three 58152 byte non ascii outguesses from onion4 with the onion5.mp3
+at all possible offsets. I scanned for file headers but found no readable 
+files. The minimum entropy is around 7.9 in all cases.
+
+-------------------------------------------------------------------------------
+Frequency and Fourier analysis of the bytes in onion5.mp3
+-------------------------------------------------------------------------------
+
+Fourier analysis:   http://imgur.com/ou0MHoB
+Frequency analysis: http://imgur.com/gV9qMMq
+
+I have done the same analysis on some mp3 files from my music library and did
+not see the patterns in the Fourier analysis that show up in onion5.mp3.
+
+-------------------------------------------------------------------------------
+onion5 back online, more data and leads to onion 6
+-------------------------------------------------------------------------------
+
+Onion5 came back online and gave us the image onion5.jpg. This can be 
+outguessed. The outguess is a bzip compressed file, containing a GPG signed
+message.
+
+onion5.jpg
+outguess -r onion5.jpg onion5.outguess.dat
+file onion5.outguess.dat
+ --> onion5.outguess.dat: bzip2 compressed data, block size = 900k
+mv onion5.outguess.dat onion5.outguess.bzip2
+bunzip2 onion5.outguess.dat --> onion5.outguess.dat.out
+mv onion5.outguess.dat.out onion5.outguess.dat
+
+onion5.outguess.dat is GPG-signed:
+
+gpg --verify onion5.outguess.dat 
+gpg: Signature made Sun 19 Jan 2014 07:28:06 AM CET using RSA key ID 7A35090F
+gpg: Good signature from "Cicada 3301 (845145127)"
+
+onion5.outguess.dat contains three different hexdumps (onion5.part01.hex, 
+onion5.part02.hex,onion5.part03.hex). It further contains what appears to be a 
+bookcode with another onion adress.
+
+Converting all three hexdumps to binary:
+xxd -r -p onion5.part0X.hex onion5.part0X.bin, X in {0,1,2}
+
+file onion5.part01.bin 
+onion5.part01.bin: JPEG image data, JFIF standard 1.01, comment: "Created with GIMP"
+
+file onion5.part02.bin 
+onion5.part02.bin: JPEG image data, JFIF standard 1.01, comment: "LEAD Technologies Inc. V1.01"
+
+onion5.part03.bin 
+onion5.part03.bin: MPEG ADTS, layer III, v2,  24 kbps, 24 kHz, JntStereo
+
+Renaming binary files appropriately according to their filetypes:
+
+mv onion5.part01.bin onion5.image01.jpg
+mv onion5.part02.bin onion5.image02.jpg
+mv onion5.part03.bin onion5.audio01.mp3
+
+-------------------------------------------------------------------------------
+Magic square in onion5.mp3
+-------------------------------------------------------------------------------
+
+Using the Windows-only steganograpic tool OpenPuff people have discovered a
+hidden message in the mp3 file. Apparently the message contains a 7x7 magic
+square with row/column/diagonal sums = 1033.
+
+7       375     236     190     27      17      181
+351     223     14      47      293     98      7
+456     232     121     114     72      23      15
+16      65      270     331     270     65      16
+15      23      72      114     121     232     456
+7       98      293     47      14      223     351
+181     17      27      190     236     375     7
+ Apparently the key '33011033' is needed for that.
+I don't have Windows, therefore I cannot reproduce this.
+
+
+
+-------------------------------------------------------------------------------
+THE BOOK CODE
+-------------------------------------------------------------------------------
+
+Clues leading to the book are in the jpgs and the mp3:
+
+
+onion5.jpg:         ?
+onion5.audio01.mp3: [05:41am] onecool: Bach: Trio Sonata in G Major, BWV 1039: I. Adagio
+onion5.image01.jpg: Equation is from Goedel incompleteness theorem
+onion5.image02.jpg: M. C. ESCHER: 1946 Eye
+
+==> Book is Douglas R. Hofstadter, Goedel, Escher, Bach
+GEB.pdf
+
+3PI:6:1:3   
+LML:1:1:1
+3
+ETOATS:19:9:1
+...AF:5:3:1
+AMO:13:10:1
+CC:8:6:1
+CBIA:3:7:2
+CFAF:5:23:6
+SPR:1:8:1
+7
+C[1]:4:5:3
+AWDV:6:2:1
+C[2]:2:17:5
+SC:3:17:1
+AOGS:2:8:1
+ONION
+
+ 1. The lettercodes in the beginning correspond with chapters in the book
+    (e. g. LML == Little Harmonic Labyrinth)
+ 2. All chapters mentioned are dialogues between characters.
+
+So we interpret the book code as follows:
+Chapter:Dialogue line:word:letter
+
+3PI:6:1:3          Three-Part Invention 29                          (u)
+LML:1:1:1          Little Harmonic Labyrinth 103                    (t)
+3                                                                   (3)
+ETOATS:19:9:1      Edifying Thoughts of a Tobacco Smoker 480        (q)
+...AF:5:3:1        ... Ant Fugue 311                                (t)
+AMO:13:10:1        Introduction: A Musico-Logical Offering 3        (z)
+CC:8:6:1           Crab Canon 199                                   (b)
+CBIA:3:7:2         Canon by Intervallic Augmentation 153            (r)
+CFAF:5:23:6        Chromatic Fantasy, And Feud 177                  (v)
+SPR:1:8:1          Six-Part Ricercar 720                            (s)
+7                                                                   (7)
+C[1]:4:5:3         Contracrostipunctus 75                           (d)
+AWDV:6:2:1         Aria with Diverse Variations 391                 (t)
+C[2]:2:17:5        Contrafactus 633                                 (v)
+SC:3:17:1          Sloth Canon 681                                  (z)                
+AOGS:2:8:1         Air on G's String 431                            (p)
+ONION
+
+
+ ==> ut3qtzbrvs7dtvzp.onion
+
+
+-------------------------------------------------------------------------------
+List of uploaded data from onion 5
+-------------------------------------------------------------------------------
+
+https://infotomb.com/ooxyo      --> onion5.dat (GPG signed hexdump of mp3)
+https://infotomb.com/kjag2      --> onion5.jpg (when onion5 came back online)
+_______________________________________________________________________________

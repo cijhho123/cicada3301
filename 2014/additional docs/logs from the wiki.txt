@@ -1,0 +1,258 @@
+earlier hints on onion 5 
+
+akame: so you remember the matrix jpeg page 4? it had no passless outguess
+
+[12:04am] akame: when you run outguess
+[12:04am] akame: it says data length 58152
+[12:04am] akame: familiar?
+[12:05am] akame: now outguess says iextracted data length too long
+[12:05am] akame: so i modified the outguess source code
+[12:05am] akame: to dump the data buffer
+[12:05am] akame: the first 4 bytes match the new onion jpg outguessses!!!
+
+akame: p4 matrix jpg forced outguess with bytelength 58152: https://infotomb.com/pnid9
+
+[12:18am]
+concise summary:
+https://infotomb.com/xgh2q fwiw
+any outguess key on new onioin 4 images and old p4 produces same seed and length
+[03:20am] akame: so does it mean they have the same key?
+
+
+onion 5
+http://thepeoplesrepublicofeurope.bandcamp.com/
+[06:51am]austintrigue: what generated the bandcamp link? a decrypt? a person?
+[12:54am] KineticX: http://thepeoplesrepublicofeurope.bandcamp.com/track/night-of-the-cicada
+
+onion 4 came online at 0:05gmt 29/01/2014
+html data via firefox https://infotomb.com/1fn08
+html stripped data is hexdump of gzip archive 
+also see http://pastebin.com/A0dWX1Qi (nazgul)
+
+
+cat avowyfgl5lkzfj3n.onion.html |perl -pe 's/^.*body\>//;s/\<\/bo.*//' |grep -v head > o4.hex
+xxd -r -p o4.hex > o4.gz
+gunzip o4.gz
+
+
+extract 4 images from the uncompressed data
+
+
+python jpaeger.py < o4
+mv unknown.stdin.000.jpg o4.1.jpg
+mv unknown.stdin.001.jpg o4.2.jpg
+python doc/rev.py  o4 > o4.rev
+python jpaeger.py < o4.rev
+mv unknown.stdin.000.jpg o4.3.jpg
+mv unknown.stdin.001.jpg o4.4.jpg
+outguess -r o4.3.jpg o4.3.og
+outguess -r o4.4.jpg o4.4.og
+
+/* you can run jpaeger.py with filename as argument, it will append number and jpg to each output file.  this save having to rename file --teefs */
+ there was no OOB data in between the 4 images
+
+
+in o4.3.jpg: outguess is ASCII: see below
+the other 3 are exactly 58152 bytes long
+nazgul: I have already XORed the 58152 bytes outguesses of the onion4 images 00,01 and 03, nothing useful
+
+
+3 non-ascii outguesses
+
+outguesses in zip archive here https://infotomb.com/svu5q (idontworkfor3301)
+the 3 non-ascii outguesses: o4.[124].jpg.og https://infotomb.com/k11ys https://infotomb.com/pqdcz https://infotomb.com/6mtc6
+Eve57: I checked 98 combinations of the three outguesses and the three 256 byte strings.
+[05:39am] ext: there is a large portion of the beginning that is similar
+[05:40am]
+nazgul: My filenames are following the extraction routine as detailed in http://pastebin.com/A0dWX1Qi
+nazgul: I am looking for any file headers in the onion4 outguesses (exept the ASCII that gave us onion5). No useable (as in images/text/compressed data/mp3) file headers found in onion4.image00.outguess (58152 bytes)
+nazgul: No useable (as in images/text/compressed data/mp3) file headers found in onion4.image01.outguess (58152 bytes)
+nazgul: No useable (as in images/text/compressed data/mp3) file headers found in onion4.image03.outguess (58152 bytes)
+nazgul: No useable file headers (for images/text/compressed data/mp3) found in onion4.image00.jpg (823807 bytes) XORed with any of the 256 byte strings or their byte-order reversed copies at all possible offsets. Minimum entropy is 6.89
+
+
+Note: outguessXX == onion4.imageXX.outguess.dat
+file: outguess00_XOR_outguess01.dat: data
+file: outguess00_XOR_outguess03.dat: data
+file: outguess01_XOR_outguess03.dat: data
+file: outguess00_XOR_outguess01_XOR_outguess03.dat: data
+
+Nothing of interest found, only binary data.
+XORed all three 58152 byte non ascii outguesses from onion4 with the onion5.mp3 at all possible offsets. I scanned for file headers but found no readable files. The minimum entropy is around 7.9 in all cases.
+An extensive analysis of the three non-ASCII outguesses in combination with the three 256 byte strings from onions 2,3 and 4 can be found at http://pastebin.com/vkaf3KWY
+
+iII|out: https://infotomb.com/3kcte.txt
+[07:30am] onecool: these outguesses XORed are producing weird results..
+[07:30am]
+iII|out: that's a diff of 1+3 and 2+3
+[07:31am]
+https://infotomb.com/3kcte.txt
+akame: 0096 2e0a 418d 3733 1236 4774 b16a 118f 6f96 f384 e148 0a00
+[07:35am]
+onecool: [00:40] <onecool> if onion address is 16 characters + '.' + 5(onion)
+[06:53am] onecool: [00:40] <onecool> 22 characters total
+[06:57am]
+strings are identical from 0 upto byte 1571 (prime), then for 22 bytes 1 and 2 are identical then for another 22 bytes all 3 identical, tand from then on all seems random
+tried all ways possible to get these 22 bytes to decipher to an onion (16 + . + onion) seemed such a sweet idea - but found nothing
+4 pages of runic script
+
+SheCalledMePaul: 4 new runes here: http://pastebin.com/Swwv9V6Q
+(ext: https://github.com/ext/jpegsplit <-- I use this tool to extract concaternated jpegs
+[12:56am])
+rune translations of 4 runic pages by sibilance http://titanpad.com/WZsXR2TIjI
+Eve57: <Eve57>I just tried this: http://jocr.sourceforge.net/
+[02:52am] Eve57: <Eve57>That is an OCR software that can learn new alphabets on the fly.
+[02:52am] Eve57: <Eve57>Whenever there is a unknown symbol it will ask as what it should be recognized.
+[02:52am] Eve57: <Eve57>Or you can even manually build a database - just a directory with images and a text file that contains the mapping file - symbol.
+[02:56am] Eve57: And I removed the border around the text manually.
+[02:57am] Eve57: gocr -p ./db/ -m 130 -m 256 001.pnm
+sibilance: cleaned up runes translation: https://gist.github.com/anonymous/ab917b4c225859c8c2b2
+[03:17am]
+The latest rune images all used the same template as the same discrepancies appear in the same place on all of them
+outguess leading to onion 5
+in o4.3.jpg: outguess is ASCII: 
+nazgul: In image02.jpg I find the following outguess (Note that there is no GPG signature): http://pastebin.com/kqfUPAvV
+[12:52am]
+For those who have fallen behind:
+
+TL BE IE OV UT HT RE ID TS EO ST PO SO YR
+
+SL BT II IY T4 DG UQ IM NU 44 2I 15 33 9M
+
+Good luck.
+
+3301
+
+akame: i got the message decyphered
+
+[01:44am] SheCalledMePaul: the whole thing D:
+[01:44am] SheCalledMePaul: lol
+[01:44am] ss23: akame: And?
+[01:46am] shadowfix_: Waiting for it...
+[01:46am] SheCalledMePaul: lol
+[01:46am] akame: transposition cypher
+[01:47am] SheCalledMePaul: what is key length
+[01:48am] akame: 7 col 8 rows 1736254
+[01:48am] akame: to  believe truth is to destroy possibility
+[01:48am] truth: wat
+[01:48am] sir_phobos: what are the numbers
+[01:50am] dead: nice work
+[01:50am] akame: the onion is:
+
+r2dliu: http://q4utgdi2n4m4uim5.onion/
+[01:58am]
+transposition cypher
+0 6 2 5 1 4 3
+T O B E L I E
+V E T R U T H
+I S T O D E S
+T R O Y P O S
+S I B I L I T
+Y Q 4 U T G D
+I 2 N 4 M 4 U
+I M 5 9 1 3 3
+
+
+leading to onion 5 http://q4utgdi2n4m4uim5.onion/ (currently offline)
+
+onion 5 
+
+html data via firefox https://infotomb.com/3y1c8
+html stripped data dump: https://infotomb.com/ooxyo (including GPG siganture, which is valid)
+or https://infotomb.com/sjpce.
+
+when decrypted: https://infotomb.com/his5u
+file called interconnectedness
+[02:11am] poincare__: http://dump.sidvind.com/onion5.mp3 - ha! code in guitar?
+
+interconnectedness, an mp3 file
+
+
+A mirror of the song is here on Youtube - http://www.youtube.com/watch?v=ActGqDxBD4A
+
+SheCalledMePaul: its in D minor, and DADGAD tuning btw if that helps you [03:27am]
+austintrigue: that last refrain from the guitar is being played backwards[03:12am] SheCalledMePaul: there was backwards guitarplaying in 761.mp3 as well[03:12am]
+counterhash: Playing the two mp3s on top of each other in Audacity produces nothing of interesct [06:17am]
+modusponies: for those focusing on the audio, you can do a lot more beyond a spectrogram http://cnmat.berkeley.edu/link/9943
+length of song is 277.133 seconds. 277133 is prime
+snibbib: also, song is 277 seconds long. the title "Interconnectedness" adds up to 772 in the gematria [06:12am]
+zoanthall: i've tried mp3stegz and mp3stego, no dice
+high freq cutoff checked - PersonalKilljoy: http://i.imgur.com/eXNLU1h.jpg
+the size of the mp3 is 665187 bytes = 2 * 3325937
+
+counterhash: Anyone know why we have all of the 55s at the end for padding? Is it a normal LAME function or?[06:45am] 
+Mothwing: No, that's not normal in LAME, look at the other mp3s we've received as hex text, they were all encoded with LAME too.
+all source files: http://sigmaninestudios.com/3301/
+Eve57: (Negative) result of XORing the three strings against the four images from tonight. Now running against the MP3. http://pastebin.com/08WXw5gj
+[04:40am]
+<Eve57>Final result of XOR started last night; images and MP3: http://pastebin.com/7j73TupH OutGuess noise: http://pastebin.com/fe1GqNMT
+unused cues on the way:
+
+9133 was redundant end after onion 5 in deciphered outguess text
+instruction on page 4 of onion 4 images:
+9133 is prime, so is 3319
+277133 is also prime (length of mp3)
+amone: do four things unreasonable each day has a gematria value of 1429 which is a prime
+[03:08am] amone: 14293319 is also a prime
+
+
+The Rune Text: (from the four new images)
+
+https://gist.github.com/anonymous/ab917b4c225859c8c2b2
+Onion 4  Transcription of runes by sibilance...essen...
+Page 1:
+
+A Koan: A man decided to 
+go and study with a maste
+r. He went to the door
+of the master. "Who are yo
+u who wishes to study her
+e" asked the master. The stude
+nt told the master his name.
+"That is not who you are, tha
+t is only what you are cal
+led. Who are you who wish
+es to study here" he aske
+
+ 
+Page 2:
+ 
+d again. The man thought for a 
+moment and replied "I am a 
+professor". "That is what 
+you do, not what you are."
+replied the master. "Who ar
+e you who wishes to stud
+y here". Confused the man th
+ought some more. Finally,
+he answered, "I am a human b
+eing". "That is only your spe
+cies, not who you are. wh
+
+ Page 3:
+
+o are you who wishes to 
+study here", asked the maste
+r again. after a moment of th
+ought the professor repl
+ied "I am a consciousness i
+nhabiting an arbitrary body
+". "That is merely what you a
+re not who you are. Who a
+re you who wishes to stu
+dy here". The man was getting ir
+ritated. "I am," he started, 
+
+Page 4:
+
+but he could not think of 
+anything else to say, so he tra
+iled off. After a long pause
+the master replied, "Then yo
+u are welcome to come stu
+dy"
+
+An Instruction: Do four 
+unreasonable things each da
+
+y:

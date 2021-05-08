@@ -1,0 +1,276 @@
+Line 1620: [12:39] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1621: [12:39] <BotSottile> New byte(s): 1d -- new len: 159 -- Entropy: 6.71 bits per byte
+	Line 1627: [12:44] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Ping timeout: 276 seconds)
+	Line 1638: [12:53] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1639: [12:53] <BotSottile> Starting to poll the onion every 10 seconds...
+	Line 1640: [12:53] <BotSottile> New byte(s): 634292ba49fe336edada779a34054a335c2ec12c8bbaed4b92dcc05efe98f76abffdc2389bdb9de2cf20c009acdc1945ab095a52609a5c219afd5f3b3edf10fcb25950666dfe8d8c433cd10c0b4c72efdfe12c6270d5cfde291f9cf0d73cb1211140136e4057380c963d70c76948d9cf6775960cf98fbafa435c44015c5959837a0f8d9f46e094f27c5797b7f8ab49bf28fa674d2ad2f726e197839956921dab -- new len: 160 -- Entropy: 6.71 bits per byte
+	Line 1650: [12:57] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Ping timeout: 248 seconds)
+	Line 1656: [13:03] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1657: [13:03] <BotSottile> Starting to poll the onion every 10 seconds...
+	Line 1658: [13:03] <BotSottile> New byte(s): 29 -- new len: 161 -- Entropy: 6.71 bits per byte
+	Line 1660: [13:08] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Ping timeout: 248 seconds)
+	Line 1736: [14:30] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1737: [14:30] <BotSottile> New byte(s): 9b -- new len: 169 -- Entropy: 6.76 bits per byte
+	Line 1738: [14:30] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1754: [14:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1755: [14:40] <BotSottile> New byte(s): ab -- new len: 170 -- Entropy: 6.75 bits per byte
+	Line 1756: [14:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1770: [15:15] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1771: [15:15] <BotSottile> New byte(s): 35 -- new len: 171 -- Entropy: 6.77 bits per byte
+	Line 1772: [15:15] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1777: [15:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1778: [15:25] <BotSottile> New byte(s): 65 -- new len: 172 -- Entropy: 6.78 bits per byte
+	Line 1779: [15:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1784: [15:30] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1785: [15:30] <BotSottile> New byte(s): f7 -- new len: 173 -- Entropy: 6.78 bits per byte
+	Line 1786: [15:30] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1801: [15:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1802: [15:40] <BotSottile> New byte(s): 51 -- new len: 174 -- Entropy: 6.79 bits per byte
+	Line 1803: [15:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1821: [15:55] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1822: [15:55] <BotSottile> New byte(s): 3e -- new len: 175 -- Entropy: 6.79 bits per byte
+	Line 1823: [15:55] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1831: [16:00] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1832: [16:00] <BotSottile> New byte(s): 3e -- new len: 176 -- Entropy: 6.78 bits per byte
+	Line 1833: [16:00] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1842: [16:05] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1843: [16:05] <BotSottile> New byte(s): 36 -- new len: 177 -- Entropy: 6.80 bits per byte
+	Line 1844: [16:05] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1863: [16:20] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1864: [16:20] <BotSottile> New byte(s): 8c -- new len: 178 -- Entropy: 6.80 bits per byte
+	Line 1865: [16:20] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1894: [16:45] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1895: [16:45] <BotSottile> New byte(s): d0 -- new len: 179 -- Entropy: 6.81 bits per byte
+	Line 1896: [16:45] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1902: [17:00] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1903: [17:00] <BotSottile> New byte(s): 32 -- new len: 180 -- Entropy: 6.82 bits per byte
+	Line 1904: [17:00] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1913: [17:15] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1914: [17:15] <BotSottile> New byte(s): 7b -- new len: 181 -- Entropy: 6.83 bits per byte
+	Line 1915: [17:15] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1926: [17:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1927: [17:25] <BotSottile> New byte(s): 47 -- new len: 182 -- Entropy: 6.84 bits per byte
+	Line 1928: [17:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1940: [17:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1941: [17:40] <BotSottile> New byte(s): cf -- new len: 183 -- Entropy: 6.84 bits per byte
+	Line 1942: [17:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1950: [17:50] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1951: [17:50] <BotSottile> New byte(s): 59 -- new len: 184 -- Entropy: 6.83 bits per byte
+	Line 1952: [17:50] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1965: [18:00] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1966: [18:00] <BotSottile> New byte(s): 5a -- new len: 185 -- Entropy: 6.83 bits per byte
+	Line 1967: [18:00] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1976: [18:10] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1977: [18:10] <BotSottile> New byte(s): fe -- new len: 186 -- Entropy: 6.83 bits per byte
+	Line 1978: [18:10] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1985: [18:15] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1986: [18:15] <BotSottile> New byte(s): bb -- new len: 187 -- Entropy: 6.84 bits per byte
+	Line 1987: [18:15] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 1995: [18:20] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 1996: [18:20] <BotSottile> New byte(s): 78 -- new len: 188 -- Entropy: 6.85 bits per byte
+	Line 1997: [18:20] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2009: [18:30] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2010: [18:30] <BotSottile> New byte(s): d6 -- new len: 189 -- Entropy: 6.86 bits per byte
+	Line 2011: [18:30] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2037: [18:56] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2038: [18:56] <BotSottile> New byte(s): 634292ba49fe336edada779a34054a335c2ec12c8bbaed4b92dcc05efe98f76abffdc2389bdb9de2cf20c009acdc1945ab095a52609a5c219afd5f3b3edf10fcb25950666dfe8d8c433cd10c0b4c72efdfe12c6270d5cfde291f9cf0d73cb1211140136e4057380c963d70c76948d9cf6775960cf98fbafa435c44015c5959837a0f8d9f46e094f27c5797b7f8ab49bf28fa674d2ad2f726e197839956921dab29724cd48e1a81fc9bab3565f7513e3e368cd0327b47cf595afebb78d6b5 -- new len: 190 -- Entropy: 6.87 bits per byte
+	Line 2039: [18:56] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2043: [19:00] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2044: [19:00] <BotSottile> New byte(s): bc -- new len: 191 -- Entropy: 6.88 bits per byte
+	Line 2045: [19:00] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2055: [19:10] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2056: [19:10] <BotSottile> New byte(s): a9 -- new len: 192 -- Entropy: 6.89 bits per byte
+	Line 2057: [19:10] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2072: [19:15] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2073: [19:15] <BotSottile> New byte(s): 2b -- new len: 193 -- Entropy: 6.91 bits per byte
+	Line 2074: [19:15] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2081: [19:20] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2082: [19:20] <BotSottile> New byte(s): a0 -- new len: 194 -- Entropy: 6.92 bits per byte
+	Line 2083: [19:20] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2087: [19:35] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2088: [19:35] <BotSottile> New byte(s): 21 -- new len: 195 -- Entropy: 6.91 bits per byte
+	Line 2089: [19:35] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2111: [19:50] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2112: [19:50] <BotSottile> New byte(s): cd -- new len: 196 -- Entropy: 6.92 bits per byte
+	Line 2113: [19:50] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2118: [19:55] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2119: [19:55] <BotSottile> New byte(s): 67 -- new len: 197 -- Entropy: 6.92 bits per byte
+	Line 2120: [19:55] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2128: [20:00] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2129: [20:00] <BotSottile> New byte(s): 34 -- new len: 198 -- Entropy: 6.92 bits per byte
+	Line 2130: [20:00] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2155: [20:15] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2156: [20:15] <BotSottile> New byte(s): f4 -- new len: 199 -- Entropy: 6.93 bits per byte
+	Line 2157: [20:15] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2179: [20:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2180: [20:25] <BotSottile> New byte(s): 36 -- new len: 200 -- Entropy: 6.93 bits per byte
+	Line 2181: [20:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2204: [20:30] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2205: [20:30] <BotSottile> New byte(s): 2a -- new len: 201 -- Entropy: 6.93 bits per byte
+	Line 2206: [20:30] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2219: [20:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2220: [20:40] <BotSottile> New byte(s): 0b -- new len: 202 -- Entropy: 6.94 bits per byte
+	Line 2221: [20:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2246: [21:00] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2247: [21:00] <BotSottile> New byte(s): 34 -- new len: 203 -- Entropy: 6.93 bits per byte
+	Line 2248: [21:00] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2282: [21:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2283: [21:25] <BotSottile> New byte(s): 1f -- new len: 204 -- Entropy: 6.93 bits per byte
+	Line 2284: [21:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2293: [21:35] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2294: [21:35] <BotSottile> New byte(s): 35 -- new len: 205 -- Entropy: 6.93 bits per byte
+	Line 2295: [21:35] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2301: [21:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2302: [21:40] <BotSottile> New byte(s): 91 -- new len: 206 -- Entropy: 6.94 bits per byte
+	Line 2303: [21:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2321: [21:50] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2322: [21:50] <BotSottile> New byte(s): 57 -- new len: 207 -- Entropy: 6.94 bits per byte
+	Line 2323: [21:50] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2330: [21:55] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2331: [21:55] <BotSottile> New byte(s): 17 -- new len: 208 -- Entropy: 6.95 bits per byte
+	Line 2332: [21:55] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2339: [22:00] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2340: [22:00] <BotSottile> New byte(s): 3b -- new len: 209 -- Entropy: 6.95 bits per byte
+	Line 2341: [22:00] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2361: [22:20] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2362: [22:20] <BotSottile> New byte(s): 53 -- new len: 210 -- Entropy: 6.96 bits per byte
+	Line 2363: [22:20] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2367: [22:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2368: [22:25] <BotSottile> New byte(s): d4 -- new len: 211 -- Entropy: 6.96 bits per byte
+	Line 2369: [22:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2376: [22:30] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2377: [22:30] <BotSottile> New byte(s): 9e -- new len: 212 -- Entropy: 6.98 bits per byte
+	Line 2378: [22:30] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2399: [22:45] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2400: [22:45] <BotSottile> New byte(s): a5 -- new len: 213 -- Entropy: 6.99 bits per byte
+	Line 2401: [22:45] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2426: [23:10] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2427: [23:10] <BotSottile> New byte(s): df -- new len: 214 -- Entropy: 6.98 bits per byte
+	Line 2428: [23:10] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2435: [23:15] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2436: [23:15] <BotSottile> New byte(s): f5 -- new len: 215 -- Entropy: 6.99 bits per byte
+	Line 2437: [23:15] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2442: [23:20] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2443: [23:20] <BotSottile> New byte(s): 88 -- new len: 216 -- Entropy: 7.00 bits per byte
+	Line 2444: [23:20] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2453: [23:30] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2454: [23:30] <BotSottile> New byte(s): 9d -- new len: 217 -- Entropy: 7.00 bits per byte
+	Line 2455: [23:30] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2459: [23:35] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2460: [23:35] <BotSottile> New byte(s): 2c -- new len: 218 -- Entropy: 7.00 bits per byte
+	Line 2461: [23:35] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2470: [23:45] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2471: [23:45] <BotSottile> New byte(s): 9d -- new len: 219 -- Entropy: 7.00 bits per byte
+	Line 2472: [23:45] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2476: [23:50] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2477: [23:50] <BotSottile> New byte(s): e6 -- new len: 220 -- Entropy: 7.01 bits per byte
+	Line 2478: [23:50] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2487: [00:05] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2488: [00:05] <BotSottile> New byte(s): b0 -- new len: 221 -- Entropy: 7.02 bits per byte
+	Line 2489: [00:05] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2494: [00:15] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2495: [00:15] <BotSottile> New byte(s): d7 -- new len: 222 -- Entropy: 7.02 bits per byte
+	Line 2496: [00:15] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2509: [00:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2510: [00:25] <BotSottile> New byte(s): e8 -- new len: 223 -- Entropy: 7.03 bits per byte
+	Line 2511: [00:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2563: [00:35] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2564: [00:35] <BotSottile> New byte(s): c6 -- new len: 224 -- Entropy: 7.04 bits per byte
+	Line 2565: [00:35] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2570: [00:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2571: [00:40] <BotSottile> New byte(s): 15 -- new len: 225 -- Entropy: 7.05 bits per byte
+	Line 2572: [00:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2582: [00:50] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2583: [00:50] <BotSottile> New byte(s): 28 -- new len: 226 -- Entropy: 7.05 bits per byte
+	Line 2584: [00:50] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2594: [00:55] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2595: [00:55] <BotSottile> New byte(s): 6c -- new len: 227 -- Entropy: 7.06 bits per byte
+	Line 2596: [00:55] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2643: [01:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2644: [01:25] <BotSottile> New byte(s): e5 -- new len: 228 -- Entropy: 7.07 bits per byte
+	Line 2645: [01:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2648: [01:30] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2649: [01:30] <BotSottile> New byte(s): 96 -- new len: 229 -- Entropy: 7.07 bits per byte
+	Line 2650: [01:30] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2663: [01:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2664: [01:40] <BotSottile> New byte(s): bf -- new len: 230 -- Entropy: 7.07 bits per byte
+	Line 2665: [01:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2671: [01:45] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2672: [01:45] <BotSottile> New byte(s): a8 -- new len: 231 -- Entropy: 7.08 bits per byte
+	Line 2673: [01:45] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2677: [01:50] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2678: [01:50] <BotSottile> New byte(s): 3f -- new len: 232 -- Entropy: 7.09 bits per byte
+	Line 2679: [01:50] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2688: [01:55] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2689: [01:55] <BotSottile> New byte(s): 50 -- new len: 233 -- Entropy: 7.09 bits per byte
+	Line 2690: [01:55] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2758: [02:05] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2759: [02:05] <BotSottile> New byte(s): b6 -- new len: 234 -- Entropy: 7.10 bits per byte
+	Line 2760: [02:05] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2795: [02:15] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2796: [02:15] <BotSottile> New byte(s): ee -- new len: 235 -- Entropy: 7.10 bits per byte
+	Line 2797: [02:15] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2808: [02:20] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2809: [02:20] <BotSottile> New byte(s): ab -- new len: 236 -- Entropy: 7.10 bits per byte
+	Line 2810: [02:20] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2860: [02:35] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2861: [02:35] <BotSottile> New byte(s): d1 -- new len: 237 -- Entropy: 7.10 bits per byte
+	Line 2862: [02:35] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2877: [02:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2878: [02:40] <BotSottile> New byte(s): 53 -- new len: 238 -- Entropy: 7.10 bits per byte
+	Line 2879: [02:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2931: [02:55] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 2932: [02:55] <BotSottile> New byte(s): aa -- new len: 239 -- Entropy: 7.11 bits per byte
+	Line 2933: [02:55] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 2999: [03:10] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3000: [03:10] <BotSottile> New byte(s): f5 -- new len: 240 -- Entropy: 7.11 bits per byte
+	Line 3001: [03:10] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3017: [03:20] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3018: [03:20] <BotSottile> New byte(s): 0c -- new len: 241 -- Entropy: 7.11 bits per byte
+	Line 3019: [03:20] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3023: [03:22] <egrep_> What was BotSottile doing?
+	Line 3028: [03:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3029: [03:25] <BotSottile> New byte(s): d7 -- new len: 242 -- Entropy: 7.11 bits per byte
+	Line 3030: [03:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3059: [03:30] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3060: [03:30] <BotSottile> New byte(s): 5f -- new len: 243 -- Entropy: 7.11 bits per byte
+	Line 3061: [03:30] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3086: [03:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3087: [03:40] <BotSottile> New byte(s): 39 -- new len: 244 -- Entropy: 7.12 bits per byte
+	Line 3088: [03:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3106: [03:45] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3107: [03:45] <BotSottile> New byte(s): 92 -- new len: 245 -- Entropy: 7.11 bits per byte
+	Line 3108: [03:45] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3136: [03:50] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3137: [03:50] <BotSottile> New byte(s): 9b -- new len: 246 -- Entropy: 7.11 bits per byte
+	Line 3138: [03:50] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3167: [03:55] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3168: [03:55] <BotSottile> New byte(s): a1 -- new len: 247 -- Entropy: 7.12 bits per byte
+	Line 3169: [03:55] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3209: [04:10] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3210: [04:10] <BotSottile> New byte(s): 1f -- new len: 248 -- Entropy: 7.12 bits per byte
+	Line 3211: [04:10] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3231: [04:20] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3232: [04:20] <BotSottile> New byte(s): b0 -- new len: 249 -- Entropy: 7.12 bits per byte
+	Line 3233: [04:20] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3239: [04:25] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3240: [04:25] <BotSottile> New byte(s): f8 -- new len: 250 -- Entropy: 7.12 bits per byte
+	Line 3241: [04:25] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3256: [04:35] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3257: [04:35] <BotSottile> New byte(s): e8 -- new len: 251 -- Entropy: 7.12 bits per byte
+	Line 3258: [04:35] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3267: [04:40] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3268: [04:40] <BotSottile> New byte(s): d6 -- new len: 252 -- Entropy: 7.12 bits per byte
+	Line 3269: [04:40] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3289: [04:50] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3290: [04:50] <BotSottile> New byte(s): 11 -- new len: 253 -- Entropy: 7.12 bits per byte
+	Line 3291: [04:50] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3304: [04:55] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3306: [04:55] <BotSottile> New byte(s): 44 -- new len: 254 -- Entropy: 7.12 bits per byte
+	Line 3307: [04:55] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3328: [05:00] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3330: [05:00] <BotSottile> New byte(s): 28 -- new len: 255 -- Entropy: 7.12 bits per byte
+	Line 3331: [05:00] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)
+	Line 3355: [05:10] --> BotSottile (~BotSottil@151.236.222.45) has joined #cicada3301
+	Line 3356: [05:10] <BotSottile> New byte(s): 46 -- new len: 256 -- Entropy: 7.12 bits per byte
+	Line 3357: [05:10] <-- BotSottile (~BotSottil@151.236.222.45) has quit (Client Quit)

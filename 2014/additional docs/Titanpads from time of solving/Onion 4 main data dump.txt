@@ -1,0 +1,88 @@
+onion4 data downlodaded as onion4.hex (https://infotomb.com/vnq3e)
+xxd -r -p onion4.hex onion4.bin
+file onion4.bin:
+onion4.bin: gzip compressed data, was "data.out", from Unix, last modified: Fri Jan 24 21:10:12 2014
+mv onion4.bin onion4.gz
+gunzip onion4.gz
+mv onion4 onion4.bin
+ 
+../scripts/DetectJPG_v2.py -i onion4.bin
+ 
+--------------------------------------------------------
+DETECT_JPG: SEARCHING FOR JPGS IN BINARY DATA
+--------------------------------------------------------
+ 
+Read onion4.bin with 3010703 bytes
+ 
+ --- scanning data ---
+ 
+Detected jpg. Begin: 0 End 823807
+Saving as onion4.image00.jpg
+Detected jpg. Begin: 823807 End 1647321
+Saving as onion4.image01.jpg
+ 
+ --- reversing byte order ---
+ 
+ --- scanning data ---
+ 
+Detected jpg. Begin: 0 End 638805
+Saving as onion4.image02.jpg
+Detected jpg. Begin: 638805 End 1363382
+Saving as onion4.image03.jpg
+ 
+ --- looking for bytes not used in jpegs ---
+ 
+ 
+ --- Done ---
+ 
+-------------------------------------------------------------------------------
+OUTGUESS
+-------------------------------------------------------------------------------
+ 
+onion4.image02.jpg has ASCII outguess:
+ 
+For those who have fallen behind:
+ 
+TL BE IE OV UT HT RE ID TS EO ST PO SO YR
+SL BT II IY T4 DG UQ IM NU 44 2I 15 33 9M
+ 
+Good luck.
+ 
+3301
+ 
+ 
+Note that this is NOT signed with GPG/PGP
+This is a columnar transposition cipher and deciphers as
+ 
+TLBEIEO
+VUTHTRE
+IDTSEOS
+TPOSOYR
+SLBTIII
+YT4DGUQ
+IMNU442
+I15339M
+ 
+TOBELIE
+VETRUTH
+ISTODES
+TROYPOS
+SIBILIT
+YQ4UTGD
+I2N4M4U
+IM59133
+ 
+TO BELIEVE TRUTH IS TO DESTROY POSSIBILITY Q4UTGDI2N4M4UIM59133
+ 
+removing the last 4 digits from the last 'word' we get ONION 5:
+ 
+http://q4utgdi2n4m4uim5.onion/
+ 
+ 
+ 
+https://infotomb.com/vnq3e      --> onion4.hex
+https://infotomb.com/qjiqh      --> onion4.image00
+https://infotomb.com/3vw2u      --> onion4.image01
+https://infotomb.com/609xy      --> onion4.image02
+https://infotomb.com/8do0b      --> onion4.image03
+http://pastebin.com/kqfUPAvV    --> onion4.image02.outguess

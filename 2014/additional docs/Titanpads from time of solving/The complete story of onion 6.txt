@@ -1,0 +1,368 @@
+===============================================================================
+ONION 6
+===============================================================================
+
+onion 6 is: http://ut3qtzbrvs7dtvzp.onion/
+
+One large unsigned hexdump with html comment <!--761-->, saved as onion6.html
+Hexdump extracted as onion6.hex
+xxd -r -p onion6.hex onion6.bin
+
+The first bytes of the hexdump are the 'ffd8' JPG header.
+
+-------------------------------------------------------------------------------
+Scanning for jpegs
+-------------------------------------------------------------------------------
+
+../scripts/DetectJPG_v2.py -i onion6.bin 
+
+--------------------------------------------------------
+DETECT_JPG: SEARCHING FOR JPGS IN BINARY DATA
+--------------------------------------------------------
+
+Read onion6.bin with 4240957 bytes
+
+ --- scanning data ---
+
+Detected jpg. Begin: 0 End 754662
+Saving as onion6.image00.jpg
+Detected jpg. Begin: 754662 End 1467395
+Saving as onion6.image01.jpg
+Detected jpg. Begin: 1467395 End 2170823
+Saving as onion6.image02.jpg
+Detected jpg. Begin: 2170823 End 4240957
+Saving as onion6.image03.jpg
+
+ --- reversing byte order ---
+
+ --- scanning data ---
+
+
+ --- looking for bytes not used in jpegs ---
+
+
+ --- Done ---
+
+
+All four jpgs are readable and show more runepages.
+
+-------------------------------------------------------------------------------
+OutGuess
+-------------------------------------------------------------------------------
+
+Running outguess on all four images:
+
+outguess -r onion6.image00.jpg onion6.outguess00.dat
+outguess -r onion6.image01.jpg onion6.outguess01.dat
+outguess -r onion6.image02.jpg onion6.outguess02.dat
+outguess -r onion6.image03.jpg onion6.outguess03.dat
+
+file onion6.outguess00.dat --> onion6.outguess00.dat: ASCII English text
+file onion6.outguess01.dat --> onion6.outguess01.dat: ASCII English text
+file onion6.outguess02.dat --> onion6.outguess02.dat: ASCII English text
+file onion6.outguess03.dat --> onion6.outguess03.dat: ASCII English text
+
+All outguesses are GPG signed. Checking the signatures:
+
+gpg --verify onion6.outguess00.dat 
+gpg: Signature made Sun 19 Jan 2014 08:39:32 AM CET using RSA key ID 7A35090F
+gpg: Good signature from "Cicada 3301 (845145127)"
+
+gpg --verify onion6.outguess01.dat 
+gpg: Signature made Sun 19 Jan 2014 08:39:42 AM CET using RSA key ID 7A35090F
+gpg: Good signature from "Cicada 3301 (845145127)"
+
+gpg --verify onion6.outguess02.dat 
+gpg: Signature made Sun 19 Jan 2014 08:39:50 AM CET using RSA key ID 7A35090F
+gpg: Good signature from "Cicada 3301 (845145127)"
+
+gpg --verify onion6.outguess03.dat 
+gpg: Signature made Sun 19 Jan 2014 08:39:57 AM CET using RSA key ID 7A35090F
+gpg: Good signature from "Cicada 3301 (845145127)"
+
+All four messages are basically identical and say:
+
+Create one Tor hidden service that can accept CGI file uploads.
+
+When this hidden service returns and can accept input, post the 
+three magic squares and the URL to your Tor hidden service here.
+
+Work alone.
+
+
+1111111111111111
+110    12    101
+1              1
+112    14    121
+1              1
+110    12    101
+1111111111111111
+
+
+Good luck.
+
+3301
+
+There is a difference between the outguesses: The digits used as frame for the
+square change. Cicada used '3' in onion6.outguess00.dat and 
+onion6.outguess01.dat, '0' in onion6.outguess02.dat and '1' in 
+onion6.outguess03.dat. The digits spell out 3301.
+
+-------------------------------------------------------------------------------
+Translation of runes
+-------------------------------------------------------------------------------
+
+The runepages are not encrypted. Translation is straightforward.
+
+[page 1, onion6.image00.jpg]
+
+THE LOSS OF DIVINITY: THE CIRCU
+MFERENCE PRACTICES THRE
+E BEHAVIORS WHICH CAUSE TH
+E LOSS OF DIVINITY.
+
+CONSUMPTION: WE CONSUME TOO
+MUCH BECAUSE WE BELEIVE THE
+FOLLWING TWO ERRORS WITHIN THE DEC
+EPTION.
+
+    1 WE DO NOT HAVE ENOUGH
+    OR THERE IS NOT ENOUGH
+
+[page 2, onion6.image01.jpg]
+
+    2 WE HAVE WHAT WE HAVE N
+    OW BY LUCK, AND WE WILL NOT
+    BE STRONG ENOUGH LATER T
+    O OBTAIN WHAT WE NEED.
+
+MOST THINGS ARE NOT WORTH CONSUM
+ING:
+
+PRESERVATION: WE PRESERVE
+THINGS BECAUSE WE BELIEVE WE AR
+E WEAK. IF WE LOSE THEM WE WILL NO
+T BE STRONG ENOUGH TO GAIN THEM
+AGAIN. THIS IS THE DECEPTION.
+
+[page 3, onion6.image02.jpg]
+
+MOST THINGS ARE NOT WORTH PRESERV
+ING:
+
+ADHERENCE: WE FOLLOW DOGMA
+SO THAT WE CAN BELONG AND BE RIGH
+T. OR WE FOLLOW REASON SO WE CAN
+BELONG AND BE RIGHT.
+
+THERE IS NOTHING TO BE RIGHT ABOUT.
+TO BELONG IS DEATH.
+
+IT IS THE BEHAVIORS OF CONSUMPT
+ION, PRESERVATION, AND ADHEREN
+
+[page 4, onion6.image03.jpg]
+
+CE THAT HAVE US LOSE OUR PRIMAL
+ITY AND THUS OUR DIVINITY:
+
+SOME WISDOM: AMASS GREAT W
+EALTH. NEVER BECOME ATTA
+CHED TO WHAT YOU OWN. BE
+PREPARED TO DESTROY ALL THAT
+YOU OWN:
+
+AN INSTRUCTION: PROGRAM YOU
+R MIND. PROGRAM REALITY
+
+-------------------------------------------------------------------------------
+Search for 'the three magic squares'
+-------------------------------------------------------------------------------
+
+Print each of the tree 256 byte strings in 16x16 matrix ---> Not magic
+(see http://pastebin.com/iQZ7dhx4)
+
+Checking 58152 byte outguesses: sqrt(58152) != int. Cannot make a square.
+
+XORed the onion5.audio01.mp3 (Bach) with each of the three 256 byte strings and
+the byte-order reversed copies. Looking for jpg/png/zip/gzip/bzip2/text files.
+No readable files found. Minimum entropy 6.92.
+
+XORed the three 256 byte strings (and their reverse) with onion6.image00.jpg.
+Looking for low entropy or headers for png/jpg/zip/gzip/bzip2 or text files.
+No readable files found. Minimum entropy 6.90.
+
+XORed the three 256 byte strings (and their reverse) with onion6.image01.jpg.
+Looking for low entropy or headers for png/jpg/zip/gzip/bzip2 or text files.
+No readable files found. Minimum entropy 6.87.
+
+XORed the three 256 byte strings (and their reverse) with onion6.image02.jpg.
+Looking for low entropy or headers for png/jpg/zip/gzip/bzip2 or text files.
+No readable files found. Minimum entropy 6.86.
+
+XORed the three 256 byte strings (and their reverse) with onion6.image03.jpg.
+Looking for low entropy or headers for png/jpg/zip/gzip/bzip2 or text files.
+No readable files found. Minimum entropy 6.87.
+
+XORed the three 256 byte strings (and their reverse) with onion5.mp3.
+Looking for low entropy or headers for png/jpg/zip/gzip/bzip2 or text files.
+No readable files found. Minimum entropy 6.87.
+
+Take numbers in the portrait and complete magic square:
+
+ 966   A   B   C   434
+1071   D   E   F   204
+ 626   G   H   G   626
+ 204   F   E   D  1071
+ 434   C   B   A   966
+
+Choose H and solve for the rest.
+
+Do similar thing for 7x7 square. There we have even more possible combinations.
+
+I doubt that these are the magic squares we're looking for. There are simply 
+too many of them.
+
+UPDATE:
+
+When onion6 came back online we got new runepages (see below for details). One
+of the pages contains a 5x5 square (one of those that could be constructed with
+the above formula):
+
+ 434 1311  312  278  966
+ 204  812  934  280 1071
+ 626  620  809  620  626
+1071  280  934  812  204
+ 966  278  312 1311  434
+
+
+Another magic square (7x7, also based on the numbers from onion5 portrait.jpg) can be
+found in onion5.mp3 (see http://pastebin.com/pFLQhtXQ for more details on 
+onion5).
+
+Unfortunately Cicada used OpenPuff, a Windows-only steganograpic software for
+the mp3. Therefore I cannot reproduce the results. I give the square as posted
+in #cicadasolvers:
+
+7       375     236     190     27      17      181
+351     223     14      47      293     98      7
+456     232     121     114     72      23      15
+16      65      270     331     270     65      16
+15      23      72      114     121     232     456
+7       98      293     47      14      223     351
+181     17      27      190     236     375     7
+
+-------------------------------------------------------------------------------
+onion6 back online, submit magic squares and hidden service address
+-------------------------------------------------------------------------------
+
+Onion 6 shows a GPG signed text message and three input fields for magic 
+squares, one for our hidden service URL. Page saved as onion6_2.html. GPG 
+signed text is onion6.2.txt.
+
+gpg --verify onion6.2.txt 
+gpg: Signature made Sat 25 Jan 2014 09:26:57 AM CET using RSA key ID 7A35090F
+gpg: Good signature from "Cicada 3301 (845145127)"
+
+Message reads (signature removed):
+
+Hello.  You have done well to come this far.
+
+Please paste the magic squares into the appropriate textareas below, then
+provide the URL to your Tor hidden service.
+
+The path to your CGI script which accepts uploads should be '/cgi-bin/upload'
+and the HTML form input which accepts file uploads should be named 'file'.
+
+Additionally, please generate a GnuPG key pair, and place the public key
+in the location '/key.asc'.
+
+We will contact you soon.
+
+Good luck.
+
+3301
+
+
+
+Posting squares and onion address gives 3 new rune jpgs. The first two pages
+are encrypted. The third is plaintext. The jpgs are called 107.jpg, 167.jpg
+and 229.jpg
+
+Apparently none of the images has any outguess.
+
+107.jpg     --> https://infotomb.com/p65ks
+167.jpg     --> https://infotomb.com/xivp2
+229.jpg     --> https://infotomb.com/oi704
+
+-------------------------------------------------------------------------------
+Decryption/translation of runes
+-------------------------------------------------------------------------------
+
+A transcription of the encrypted pages 1 and 2 is in onion6.2.runes.txt. Page 3
+is not encrypted and can be translated directly using the Gematria.
+
+A frequency analysis of the ciphertext shows a good match to english plaintext,
+except for the letters A, R, S and T. This points to some simple reordering 
+cipher (e.g. columnar transposition).
+
+http://imgur.com/HdlYxou    --> Frequency analysis
+
+Decryption via column reordering is not possible
+Also no Caesar cipher
+No simple substitution cipher
+
+It turns out to be a Vigenere cipher with the key "FIRFUMFERENFE" 
+(CIRCUMFERENCE with every 'C' replaced by 'F'). That made it hard to detect
+since 'F' represents a shift of 0. Additionally the two F-runes  in 'OF' and
+'CIRCUMFERENCE' are to be ignored (no increment in key pointer).
+
+Decryption is as follows:
+
+[page 1, 107.jpg]
+
+A COAN: DURING A LESSON THE MAS
+TER EXPLAINED THE I: "THE 
+I IS THE VOICE OF THE CIRCU
+MFERENCE", HE SAID. WHEN AS
+KED BY A STUDENT TO EXPLAIN
+WHAT THAT MEANT, THE MASTER SA
+ID "IT IS A VOICE INSIDE YOUR H
+EAD". "I DON'T HAVE A VOICE I
+N MY HEAD", THOUGHT THE STUDENT,
+AND HE RAISED HIS HAND TO TE
+LL THE MASTER. THE MASTER STOP
+
+[page 2, 167.jpg]
+
+PED THE STUDENT AND SAID "THE
+VOICE THAT JUST SAID YOU HAV
+E NO VOICE IN YOUR HEAD, IS THE
+I." AND THE STUDENTS WERE ENL
+IGHTENED
+
+
+[page 3, 229.jpg]
+
+AN INSTRUCTION: QUESTION ALL
+THINGS. DISCOVER THRUTH INSIDE
+YOURSELF. FOLLOW YOUR TRU
+TH. IMPOSE NOTHING ON OTHERS:
+
+KNOW THIS:
+     
+ 434 1311  312  278  966
+ 204  812  934  280 1071
+ 626  620  809  620  626
+1071  280  934  812  204
+ 966  278  312 1311  434
+
+
+
+-------------------------------------------------------------------------------
+List of uploaded data from onion 6
+-------------------------------------------------------------------------------
+
+https://infotomb.com/4lurl      --> onion 6 hexdump with <!--761--> comment
+
+_______________________________________________________________________________

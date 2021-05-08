@@ -1,0 +1,9 @@
+00 20 25 35 50 05 15 20 45 00 15 20 40 45 05 10 25 30 40 15 25 30 [minute]
+05 20 05 10 15 15 10 05 25 15 15 05 20 05 20 05 05 15 10 35 10 05 [time elapsed since last update]
+26 e1 97 83 99 56 92 1d ab 29 72 4c d4 8e 1a 81 fc 9b ab 35 65 f7 [digits entered]
+
+
+
+40 55 00 05 20 45 00 15 25	   [minute]
+10 15 05 05 15 25 15 15 10         [time elapsed since last update]
+51 3e 3e 36 8c d0 32 7b 47         [digits entered]

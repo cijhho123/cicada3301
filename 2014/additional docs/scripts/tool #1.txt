@@ -1,0 +1,28 @@
+import binascii
+import struct
+from binascii import hexlify, unhexlify
+
+# XOR data
+def xor_byte(byte):
+    s1 = byte
+    s2 = "ff"
+    return hexlify(''.join(chr(ord(c1) ^ ord(c2)) for c1, c2 in zip(unhexlify(s1[-len(s2):]), unhexlify(s2))))
+
+def xor_data(hex_data):
+    result = []
+    for b in range( len(hex_data)/2 ):
+        xored_byte = xor_byte( hex_data[2*b:2*(b+1)] )
+        result.append(xored_byte)
+    return "".join(result)
+
+# Read data
+with open('onion3.txt') as in_file:
+    hex_data = in_file.read()
+
+# Unhexlify the data.
+#bin_data = unhexlify( xor_data(hex_data.replace('\r\n','')) )
+bin_data = unhexlify( hex_data.replace('\r\n','') )
+
+# Write out the JPEG.
+with open('onion3.jpg', 'wb') as out_file:
+    out_file.write(bin_data)
