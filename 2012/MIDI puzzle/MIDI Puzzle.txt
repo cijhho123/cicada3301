@@ -1,0 +1,328 @@
+Cicada 3301 Puzzles
+
+***************I put ***** on some places to protect identity*****************
+
+==========1. RSA key==========================================================================================
+
+- -----BEGIN COMPRESSED RSA ENCRYPTED MESSAGE-----
+Version: 1.99
+Scheme: Crypt::RSA::ES::OAEP
+
+********/zEwADE4OABDeXBoZXJ0ZXh0B4KeBtKjJ7hGKC7/zqyzxUoFDTzRuU4+TLFUrw9qDGjk
+YI3fjyMn3G/w9WcfkZMGHdGRicbpTsDO3/oqmVtZpmIDY2HPOeWIZChuLfMDwT3FTUkDjQpsq390
+OJ90pArd1JRxdIZtnCvnVy/vg+1MjAFH3ta+CuAwHsIY/3lGOKTin1+5M30BKh7NOQMmBcJ8/RuL
+TfXMGQT01QVMeAGq6vORk3iw39KOLRU3Lcn1804G1/zd2mdFWvEMaTbu/F+7
+=0KfiT9PUe6QkwJXoM36Ukw==
+- -----END COMPRESSED RSA ENCRYPTED MESSAGE-----
+
+
+Here is the public key used to encrypt it. Note that it has a low bit modulus and is therefore breakable:
+
+$VAR1 = bless( {
+                 'e' => 65537,
+                 'n' => '*******************234687598764987896***************86789697850342421310*****************1759008957255433116412000179***********',
+                 'Version' => '1.99',
+                 'Identity' => ''
+               }, 'Crypt::RSA::Key::Public' );
+
+
+The encrypted message is a number.  Break the decryption key, then come back to this same URL and enter the 
+decrypted message to continue.  Each person who has come this far has received a unique message encrypted 
+with a unique key.  You are not to collaborate.  Sharing your message or key will result in not receiving 
+the next step.
+
+There is a second chance to get your own RSA message and key.  Follow the "Numbers dot TK" hint to find it.
+
+There are many fake messages out there.  Only messages signed with public key ID 7A35090F are valid.  
+
+Good luck.
+
+3301 
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJPEi5PAAoJEBgfAeV6NQkPV58P/0vBho7MrgWy4V4v2CGcq3gU
+OfNQ+k/z3TRvJZamGqM0bJbYgaHyG6mekf4v7o68b6v7Riir3maljP0snKV6Wv6j
+Ea8tzLZGonrgIJSSH4Ri3Ce9JiX4FGgNf8kY/3MahW5+TPoJGOmugfAf51XrUafH
+xTGK6aa9VQoQgg4Hxig8+BQAcNOGBvrnLu2MX4e+K8877YzNhymPNQGiKa/vm/gv
+BZN8S5tP9JYbSxZIU9EY5/Ny1c7Rb4uWJfmVm0EuKhx4gnVTuo7DXmZh0bcSmgk+
+BPsg/mLdFVKMNaf8Znam4Lg7oGby6fg7duwNcRBtH242oDZi7Ar2PaULDeaEhVS9
+Z29zFPGNpwDc8E7hecbfBzlLARkiMOApgORfBeTVP7c3p38efg+24v7Rp26J61Qf
+qtppmijeO+BuytVm8XlmGLoMvL8NlCx/9ghTnaQN1hBWT/WpCPRCLC0F982zvfzC
+Zhu0lPouHYdB9QYRuUcMQP03UcZNyFsdmw1epVLfL3QP9TzDoeLBopu/gHNARUzp
+Icx7rqme633XCldmnLn91CMGBOMGLQGdC+z16e9zQGYuliE/SfB66Kebz2f8ZBpK
+Dqw5Riu8BQAPMK1kt9evb7L/a7TZD5ISlh253ES9Tmi8/Nxot7hGMuHXFvEdajyK
+qwcTZ2vegt8Tu6Hb7199
+=S6GG
+-----END PGP SIGNATURE-----
+
+
+======2. Midi files =====================================================================================
+
+This song is your own path
+Another stop on the road toward enlightenment
+Follow it, and share not
+
+Let the Chorus be your guide to the depths :
+
+	Let the Priests of the Raven of dawn,
+	no longer in deadly black, with hoarse note
+	curse the sons of joy. Nor his accepted
+	brethren, whom, tyrant, he calls free lay the
+	bound or build the roof. Nor pale religious
+	letchery call that virginity, that wishes
+	but acts not.
+
+	For every thing that lives is Holy.
+
+Good luck.
+
+3301
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+*********UYv7sgBJgPZoyjo+PaGKgwyLogiOywtKPhA018ral4ES3QFMfMIR1z
+ljWQlFTykSY44iMZc1BMS0VCwdHRICMmK0odn5maGWiJjXTu4zzuOfcCM039xV/n
+3nO+5+/7fd+5O7v+eS/BbAJ9TTeXRfl1NR3onTLb35mRljonNXxBxpzxfVZnJ01K
+nyMIgo9gErwEMWnS4vnwbZDQYnpRkbOkLrEkZS60jE5daBlis1iHxlqHxVojLUMi
+rEOElsGCotG53RoTvHx3WoRTPsLpgUKLy9vXBJ4TWqaZTYKwIV50O9zx8MEuArcd
+rjHSRgx8iBY9gjsaPiTAkwR5FTVrHNyPE9yLaEnlxC7ZsAtggxOKOGVbQBZgvEkC
+oiyAvSITXFzx8CAeasRJB3FYEkBVIGsik3a4b6csxUoKsXK8siZQAyem0Xs01IiW
+NYCsgKLGLrUKOrEgTQKEEguKDSsQYJBLOUgA0wRy2si3Ckyug3fGhYcf0AmyjrDT
+YikpiJrEUaVRdFziSFGbF21QhRgBgeuKJA0wRdkAKgaFGcq7ZFGULRJDMukIYghz
+1SUwpCUlgoyhfFjgFIBoqIGKtLJy6WGy4YIS6iOIFO7gYFCiqBgoWq1PQMWEacwQ
+gmMX2xKcCUNQcR7cWDAeGKoOHAgGgRgTkaMLrh1Bh82aTdLwgCUIApoFPEEykMC1
+DaEgFmCoRg8EkZkk7OzBZcdHRt4M8yHjyWhcAWoK6BjiWGsIoaFkjFQf+oAZ4IAa
+5KLuxKeaEagYstgBuYEMOAppxkGIZgeiGcd3rsRMxu0aGu0IiJ+LoHXyotpR80Nb
+ZGUlglRltNcdGy9/a7GmUUXYZqXYzVwDTmlDvyvbnEWoRv/hyEUNz31UKD4pGvDX
+sAJNW2wAemEAhhWorZl5SeZ5m0wjvaOeINC03zz8DIafC+0w39Y807nFmLRz6E87
+enyRdlYEPQRrLh6mazwkPZ2u0LaeyrLWVLTj1cOPS/ZbhrqDJAGPxpYeVz0kaQ4m
+9lMTR2H4rYZtagFEPjx08TGAoDV0yC+GrvX//hdDQYQoZkfA1SqCbKv87nbIG/gB
+ppQdjSUAfBfl9zBJIAw+hMKNUMpEuHQQTptQd0BBFBSNghs2KGqD74ZOKONANm6T
+NmyUFxs0ZdM1CWSLSDFKUozCCp4s9UFQNQGGgFhC50B+Rx7VmABOGIWAXCJB5Brt
+IwehsInhgZQdkJMjB4pCOFzD5VWEaxaJHXlk8AIYNxQ7soTxw8VAyGqzp0wqAh6A
+o7BKJ9ZWjRnWD0uyoBpSIQy+h2kykcFyu7iIcR2QU4QOts3jCaiwBUxhJndUMQ+p
+EE6d6w/knJNQwqWKx9bIClcrFMCm1FQFPdYrqauiWTo4K5kRyokaymFIFJh1wiWl
+1HIRk9WgxhRIJDGVMCRsCU7AVw5pYg1CcBS/otn2gEC2tXxqnTaiShstZpxpUnME
+jaiOFKDpSi5/FXUPMB6vqHDavDQUUPFvvcQ6EBFB+QCQ2YkCpsDTZoIw4+aNGk1W
+O7xxQwvPAjZXAhPHB2yNbWX+TjEYaLkuzHmOAaRVmUuFR18nXy1UCoTtKQNLI847
+Nb+YgcaOEOZGWeUwIlorHdRxj3fc4x33eMc93nGPd9zjet467vH//R6XftvnmXt7
+Cyaz4NPJLP25KPj7dUN/Pi4P6vos2lm00Lp5na+5oXLQhOCQDMufPYcmv3SsaZj9
+TM+G5oiyW4djJh4vbBbOXg+Z7Dc78fYHk6oulI+Ib1yTFjTr7OIWrz03Aw/kNDkv
+fXvp/t2a0m0BIxudXwcevD86oTj5IbgYA9aVOjyeG0tPXqkct7O52n7I98HZ9948
+lFm14if7loLzW/xPVV4t3rl0Rkz/M01dXDUZzdOTp9VePXL3tdPJRd23FR8Pi4j5
+O2TUjceOb+omVvRJmNy9R2B61JTyuo/21T7yjiwpfnCroaL41jiX56um+sibuxYV
+5tcF/rxkXuGmewdztz4+PGjE3sajVWmW5IL7i/JTjpzvd3tCyfIfHaV9vh/QOyDx
+/Se/jB3uf8U/4nRIp4o7r2/v0mtuvaMkaP7dy52Gv1L+Q2iZc9eHJ9a/UNO8fcC7
+T19+teDR2w1r9+fMHNdjQ0Zlz8VFT0flexJPJM6duaA6ZeTUX8eH1Paaknrsaqxr
+R+3W1cuC36lvfrA6+K+Vv6Xfjnc5y5Y2bN092SVu/L2xyHvs4G5rVnwy/Y0x97Le
+Gp6QknevZuDllLrHU3cEzNgYbM7bVZF+fW/VPMu1Z5sv7M66ci3xc/Bdcpi5eUdO
+2cO+7qS1mV+c9KnebBvoe9Fddycz87P6onPD5uXOqi3w37QnKKCk86XI8n2r0g72
+HTP/XET/P/ISb1T3K0s5Gvbx/pWnviwsWPFpD9***************=
+=hqiT
+-----END PGP MESSAGE-----
+
+===========Midi songs in readable format and part of the solution=======================================
+MFile 1 3 96
+MTrk
+0 Meta Text "Cicada at Mon Jan 23 16:19:14 2012"
+0 Meta TrkEnd
+TrkEnd
+MTrk
+0 Meta Text "Cicada at Mon Jan 23 16:19:14 2012"
+0 Tempo 500000
+0 PrCh ch=2 p=6
+0 PrCh ch=3 p=41
+0 TimeSig 7/2 24 8
+0 KeySig 1 major
+
+0 On ch=2 n=63 v=96     v    192     63
+192 Off ch=2 n=63 v=0      
+192 On ch=2 n=61 v=96    e   24     61           
+216 Off ch=2 n=61 v=0        
+216 On ch=2 n=56 v=96     r    192       56
+408 Off ch=2 n=56 v=0            
+408 On ch=2 n=55 v=96   y      384        55
+792 Off ch=2 n=55 v=0            
+792 On ch=2 n=65 v=96    g   24       65
+816 Off ch=2 n=65 v=0
+816 On ch=2 n=65 v=96     o     96     65
+912 Off ch=2 n=65 v=0
+912 On ch=2 n=65 v=96      o     96      65
+1008 Off ch=2 n=65 v=0
+1008 On ch=2 n=60 v=96      d      24      60
+1032 Off ch=2 n=60 v=0
+1272 On ch=2 n=55 v=96     y     384        55
+1656 Off ch=2 n=55 v=0
+1656 On ch=2 n=65 v=96      o       96       65
+1752 Off ch=2 n=65 v=0                      
+1752 On ch=2 n=61 v=96     u        192      61
+1944 Off ch=2 n=61 v=0
+1968 On ch=2 n=67 v=96      h       24         67
+1992 Off ch=2 n=67 v=0
+1992 On ch=2 n=55 v=96       a       24         55
+2016 Off ch=2 n=55 v=0
+2016 On ch=2 n=63 v=96        v             63
+2208 Off ch=2 n=63 v=0
+2208 On ch=2 n=61 v=96         e            61
+2232 Off ch=2 n=61 v=0
+2256 On ch=2 n=67 v=96  p           96               67
+2352 Off ch=2 n=67 v=0
+2352 On ch=2 n=56 v=96   r                         56
+2544 Off ch=2 n=56 v=0
+2544 On ch=2 n=65 v=96    o                       65
+2640 Off ch=2 n=65 v=0
+2640 On ch=2 n=63 v=96     v                      63
+2832 Off ch=2 n=63 v=0
+2832 On ch=2 n=61 v=96      e                         61
+2856 Off ch=2 n=61 v=0
+2856 On ch=2 n=63 v=96       n    96                63
+2952 Off ch=2 n=63 v=0
+2976 On ch=2 n=60 v=96        t     192                60
+3168 Off ch=2 n=60 v=0
+3168 On ch=2 n=65 v=96         o                        65
+3264 Off ch=2 n=65 v=0
+3288 On ch=2 n=56 v=96  b                           56
+3312 Off ch=2 n=56 v=0
+3312 On ch=2 n=61 v=96  e                            61
+3336 Off ch=2 n=61 v=0
+3360 On ch=2 n=61 v=96        m                          61
+3456 Off ch=2 n=61 v=0
+3456 On ch=2 n=65 v=96         o                          65
+3552 Off ch=2 n=65 v=0
+3552 On ch=2 n=58 v=96s
+3744 Off ch=2 n=58 v=0
+3744 On ch=2 n=60 v=96t
+3936 Off ch=2 n=60 v=0
+3960 On ch=2 n=60 v=96d
+3984 Off ch=2 n=60 v=0
+3984 On ch=2 n=61 v=96e
+4008 Off ch=2 n=61 v=0
+4008 On ch=2 n=60 v=96d
+4032 Off ch=2 n=60 v=0
+4032 On ch=2 n=55 v=96i
+4128 Off ch=2 n=55 v=0
+...
+..
+.
+a  24  55
+b  24  56
+c   24  58
+d   24  60
+e  24 61
+f   24  63
+g   24  65
+h    24  67
+i    96  55
+j
+k   96  58
+l   96  60
+m   96  61
+n   96  63
+o  96  65
+p  96  67
+q
+r  192 56
+s  192  58
+t  192  60
+u  192  61
+v  192 63
+w   192  65
+y   384 55
+z   386 56
+
+=======Deciphered text from first midi song was:========================================
+verygood you have proven to be most dedicated to come this
+far to attain enlightenment create a gpg key for your email address
+and upload it to the mit key servers then encrypt the the following
+word list using the cicada three three ero one public key sign it
+with your key send the ascii armoured ciphertet to the gmail address
+from which you received your numbers your words are
+[unique list of words here]
+***** garden ball house cat shore back head galon
+
+
+=====Second midi song was encoded chorus from poem (after analyzing it you could break cipher and key)====
+
+LetthePriestsoftheRavenofdawnnolongerindeadlyblackwithhoarsenotecursethesonsofjoyNorhisacceptedbrethrenwhomtyranthecallsfreelaytheboundorbuildtheroofNorpalereligiousletcherycallthatvirginitythatwishesbutactsnotForeverythingthatlivesisHoly
+
+TrkEnd
+MTrk
+0 Meta Text "Cicada at Mon Jan 23 16:19:14 2012"
+0 Tempo 500000
+0 PrCh ch=2 p=6
+0 PrCh ch=3 p=41
+0 TimeSig 7/2 24 8
+0 KeySig 1 major
+0 On ch=3 n=48 v=96   L
+96 Off ch=3 n=48 v=0  E
+96 On ch=3 n=49 v=96  T
+120 Off ch=3 n=49 v=0  T
+120 On ch=3 n=48 v=96  H
+312 Off ch=3 n=48 v=0  E
+312 On ch=3 n=48 v=96  P
+504 Off ch=3 n=48 v=0  R
+504 On ch=3 n=55 v=96  ...
+528 Off ch=3 n=55 v=0  ..
+528 On ch=3 n=49 v=96  .
+552 Off ch=3 n=49 v=0
+576 On ch=3 n=55 v=96
+672 Off ch=3 n=55 v=0
+672 On ch=3 n=44 v=96
+864 Off ch=3 n=44 v=0
+864 On ch=3 n=43 v=96
+960 Off ch=3 n=43 v=0
+960 On ch=3 n=49 v=96
+984 Off ch=3 n=49 v=0
+984 On ch=3 n=46 v=96
+1176 Off ch=3 n=46 v=0
+1176 On ch=3 n=48 v=96
+1368 Off ch=3 n=48 v=0
+1368 On ch=3 n=46 v=96
+1560 Off ch=3 n=46 v=0
+1584 On ch=3 n=53 v=96
+1680 Off ch=3 n=53 v=0
+1680 On ch=3 n=51 v=96
+1704 Off ch=3 n=51 v=0
+1728 On ch=3 n=48 v=96
+1920 Off ch=3 n=48 v=0
+1920 On ch=3 n=55 v=96
+1944 Off ch=3 n=55 v=0
+1944 On ch=3 n=49 v=96
+1968 Off ch=3 n=49 v=0
+1992 On ch=3 n=44 v=96
+2184 Off ch=3 n=44 v=0
+2184 On ch=3 n=43 v=96
+2208 Off ch=3 n=43 v=0
+2208 On ch=3 n=51 v=96
+...
+..
+.
+
+==============key for MIDI is=====================================================================
+a  24  55
+b  24  56
+c   24  58
+d   24  60
+e  24 61
+f   24  63
+g   24  65
+h    24  67
+i    96  55
+j
+k   96  58
+l   96  60
+m   96  61
+n   96  63
+o  96  65
+p  96  67
+q
+r  192 56
+s  192  58
+t  192  60
+u  192  61
+v  192 63
+w   192  65
+y   384 55
+z   386 56
