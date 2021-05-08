@@ -9,7 +9,8 @@ this repository contains all the important pages from the uncovering cicada wiki
 I re-orgenized them into a ready-to-print form and saved additional images, programs and more - sorted by years.
 
 
-
+# assets
+All the original images and files can be found in [assets/](/assets)
 
 
 # Credits and Links
