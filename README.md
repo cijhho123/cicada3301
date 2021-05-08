@@ -8,7 +8,7 @@ Cicada 3301 is a nickname given to an organization that, on three occasions, has
 You can watch this [greate overview by Lemino](https://www.youtube.com/watch?v=I2O7blSSzpI) and [nox populi's video](https://www.youtube.com/watch?v=l0z03ntMJio)
 
 
-# cicada3301
+# This cicada3301 Repository
 this repository contains all the important pages from the uncovering cicada wiki including all the images, videos and external links.
 
 I re-orgenized them into a ready-to-print form and saved additional images, programs and more - sorted by years.
