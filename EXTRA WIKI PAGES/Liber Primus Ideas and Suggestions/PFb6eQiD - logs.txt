@@ -1,0 +1,16 @@
+<Profetul> if you are bored and don't know what else to look into ... I and mortlach been looking for streams that generate low doubles and had an interesting finding ;-)
+<Profetul> there are cyclical patterns in gaps between elements of a key that would generate low doubles
+<Profetul> https://gist.github.com/Profetul/bd8ad9cb16c81302382526ea2e4f6e67
+<Profetul> e.g. 11 as a gap seems to be a way of generating low doubles ... something in the form 0, 11, 22, 4, 15, 26 ... etc.
+<Profetul> though usually the pattern is something in the form of 11, -18, 11, 11, -18, 11, X, etc
+<Profetul> where X can be a constant or something that's changing
+<Profetul> but 29-18 = 11 as well ... that's why I said 11 
+<Profetul> I don't think text is enciphered with an OEIS stream
+<Profetul> but it could be encoded with a stream that has a base "gap" pattern between elements
+<Profetul> actually any +-+- = X work
+<Profetul> mortlach tested up to 30
+<Profetul> so ... it's possible that the text is encoded using a base cyclic pattern say X1,X2,X3,X4... 
+<Profetul> where X1 = K2-K1, X2 = K3 - K2, etc
+<Profetul> where K is the element in the sequence
+<Profetul> in the gist I've pasted some of the results I had ... trying to find such streams on some sample text in blocks of the same size as a section
+<Profetul> you can pick some keys, calculate diff between elements and see the pattern ;-)
