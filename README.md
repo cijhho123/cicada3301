@@ -1,3 +1,6 @@
+![Cicada3301](https://github.com/cijhho123/cicada3301/blob/main/cicada_(from_the_website).jpg?raw=true)
+
+
 # cicada3301
 this repository contains all the important pages from the uncovering cicada wiki including all the images, videos and external links.
 
