@@ -1,4 +1,6 @@
+<a href="https://www.youtube.com/watch?v=I2O7blSSzpI">
 <img src="https://github.com/cijhho123/cicada3301/blob/main/2012/additional%20media/images/cicada%20(from%20the%20website).jpg" alt="cicada3301">
+</a>
 
 
 # cicada3301
