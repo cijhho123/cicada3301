@@ -1,0 +1,8 @@
+Since files from 2013 and 2014 doesnt have same size, I checked the hex.
+
+Comparing one from last year and one from this year files are that same, 2014 version has just 781 empty spaces ( 781 0x20 bytes ) added on end of file
+
+I would say reason is that twitter changed their profle picture handling
+
+2.98 KB (3,054 bytes)  size of twitter profile pic I downloaded in 2013
+3.74 KB (3,835 bytes)  size of twitter profile pic I downloaded this year
