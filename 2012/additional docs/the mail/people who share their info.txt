@@ -1,0 +1,33 @@
+People who shared their key or message got this by email:
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+
+
+Hello.  You have shared your information online.  You are now removed from this altogether.
+Even if you crack the key you've been given it doesn't matter, because you have demonstrated
+that you can't be trusted to follow simple instructions anyway.
+
+Thank you for your participation to this point.
+
+Goodbye.
+
+3301
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQIcBAEBAgAGBQJPEsO0AAoJEBgfAeV6NQkPJRUP/1JyxwilMLUX0J+2gLofZV/C
+/eIJkO3lxYuLQQWiouJVzBSddZ/GVP2XLP86OaZpYoChzGRxYaIia62e0ZnRQHei
+d7UNWvOjenveo7QUpxpY+xPvPq41l/JJAntE6H82yO4NlCTTFi7UJBG2r8EgSc/s
+gQs1A5TANcJgq8mFoscPH4T1QxT5N0AXbALMNyEUS37UqBcV40/7v9AJq52tyLnQ
+IInxdmY38RO/sJJIAi/4hCquJ6OYFYmQxBTldKhacEE0/e8BQXIm/eIXClPL3ff0
+mET9uP8CwyFQW8nUM7dBRO4CKTUJ0cYxjj3PlHnRUdfM7AyywWeXkqwlDB4OFOy2
+Jw9/18phYSxTV2cM6ETRBK1xSGwevHHBaEdJF7xZAIA3EYbqyjW09YQnf4dihEg7
+O3faR8docXTPwQ0qhuU65krI5O17N3Sn731RvBz9bZcDm+E8nh0m6wA0yRBYYjYo
+8SW5MscEN2SI7xq8lskHdX9uogDVnb9IqTV2YfrQplnpZIR5jfLU+uWgVXMA2faQ
+i9QMtyvKGGZ6ejPX+euPmp8XRIUHeXD5H/YQSTTy6D/0WnMHpH/h9p1FRcWOZSbR
+1Gmmxi/Oix4PtBXjuNJt51KuQxVsh3s1f2KTcVV3tILalYtyPtoqTRST05KwV/Jj
+GnHprhtOWRq4pAHlQktc
+=kPlo
+-----END PGP SIGNATURE-----
