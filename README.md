@@ -12,6 +12,9 @@ I re-orgenized them into a ready-to-print form and saved additional images, prog
 # assets
 All the original images and files can be found in [assets/](/assets)
 
+# Media Coverage and old sites
+All old sites and media coverags can be found in [archive/](/archive)
+
 
 # Credits and Links
 The credit for the articles, images, code and more are to the cicada solvers community. 
