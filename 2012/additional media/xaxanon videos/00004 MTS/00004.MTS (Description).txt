@@ -1,0 +1,3 @@
+Seoul locations for Cicada:3301.
+
+Panning around the area that the GPS coordinates pointed to.  To be certain, I also did a search in the Daum app using the address listed with the coordinates.
