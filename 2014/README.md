@@ -1,8 +1,8 @@
-# The 2012 Puzzle
+# The 2014 Puzzle
 
 # This folder contains:
 
--What happend articles (2 parts)
+	-What happend articles (2 parts)
 	-The original wiki threads from 2014 which wrote while solving (1 part)
 	-Interconnectedness.mp3
   
