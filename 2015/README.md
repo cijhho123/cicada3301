@@ -2,5 +2,5 @@
 
 # this folder contains:
   	-Cicada Breaks the Silence 2015 Twitter Message (1 part)
-	 -additional images
+	-additional images
 	-the original messege
