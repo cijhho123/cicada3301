@@ -11,6 +11,6 @@ I re-orgenized them into a ready-to-print form and saved additional images, prog
 The credit for the articles, images, code and more are to the cicada solvers community. 
 I only reformatted and reorgenized it.
 
-[Uncevering Cicada Wiki](https://uncovering-cicada.fandom.com/wiki/Uncovering_Cicada_Wiki)
-[Cicada Solvers Discord Server](https://discord.com/invite/eMmeaA9)
-[#cicadasolvers on IRC](https://webchat.freenode.net/#cicadasolvers)
+[Uncevering Cicada Wiki](https://uncovering-cicada.fandom.com/wiki/Uncovering_Cicada_Wiki)</br>
+[Cicada Solvers Discord Server](https://discord.com/invite/eMmeaA9)</br>
+[#cicadasolvers on IRC](https://webchat.freenode.net/#cicadasolvers)</br>
