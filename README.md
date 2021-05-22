@@ -12,13 +12,13 @@ You can watch this [greate overview by Lemino](https://www.youtube.com/watch?v=I
 this repository contains all the important pages from the uncovering cicada wiki including all the images, videos and external links.
 I re-orgenized them into a ready-to-print form and saved additional images, programs and more - sorted by years.
 
-[2012 puzzle/](/2012)
-[2013 puzzle/](/2013)
-[2014 puzzle/](/2014)
-[2015 puzzle/](/2015)
-[2016 puzzle/](/2016)
-[2017 puzzle/](/2017)
-[More Wiki Pages/](/EXTRA WIKI PAGES)
+[2012 puzzle/](/2012) </br>
+[2013 puzzle/](/2013) </br>
+[2014 puzzle/](/2014) </br>
+[2015 puzzle/](/2015) </br>
+[2016 puzzle/](/2016) </br>
+[2017 puzzle/](/2017) </br>
+[More Wiki Pages/](/EXTRA_WIKI_PAGES)
 
 # assets
 All the original images and files can be found in [assets/](/assets)
