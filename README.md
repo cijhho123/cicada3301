@@ -18,7 +18,7 @@ I re-orgenized them into a ready-to-print form and saved additional images, prog
 [2015 puzzle/](/2015) </br>
 [2016 puzzle/](/2016) </br>
 [2017 puzzle/](/2017) </br>
-[More Wiki Pages/](/EXTRA_WIKI_PAGES)
+[More Wiki Pages/](/EXTRA%20WIKI%20PAGES)
 
 # assets
 All the original images and files can be found in [assets/](/assets)
