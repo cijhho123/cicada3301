@@ -16,7 +16,7 @@ I re-orgenized them into a ready-to-print form and saved additional images, prog
 [2012 puzzle](/2012) &nbsp;&nbsp;&nbsp;&nbsp; [[assets]](/assets/2012)</br>
 [2013 puzzle](/2013) &nbsp;&nbsp;&nbsp;&nbsp; [[assets]](/assets/2013)</br>
 [2014 puzzle](/2014) &nbsp;&nbsp;&nbsp;&nbsp; [[assets]](/assets/2014)</br>
-[2015 puzzle](/2015) 
+[2015 puzzle](/2015) </br>
 [2016 puzzle](/2016) &nbsp;&nbsp;&nbsp;&nbsp; [[assets]](/assets/2016)</br>
 [2017 puzzle](/2017)  
 [More Wiki Pages](/EXTRA%20WIKI%20PAGES)
