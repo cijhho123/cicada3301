@@ -31,8 +31,7 @@ All old sites and media coverags can be found in [archive/](/Archive)
 
 
 # Credits and Links
-The credit for the articles, images, code and more are to the cicada solvers community. 
-I only reformatted and reorgenized it.
+The credit for the articles, images, code and more are to the cicada solvers community from over the years and to the 3301 organization.
 
 [Uncovering Cicada Wiki](https://uncovering-cicada.fandom.com/wiki/Uncovering_Cicada_Wiki)</br>
 [Cicada Solvers Discord Server](https://discord.com/invite/eMmeaA9)</br>
